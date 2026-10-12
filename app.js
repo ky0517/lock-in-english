@@ -21,10 +21,22 @@ function save(){localStorage.setItem(KEY,JSON.stringify(words))}
 function saveDay(){localStorage.setItem(DAYKEY,JSON.stringify(day))}
 function getId(w){return w.en.toLocaleLowerCase().replace(/\s+/g," ").trim()}
 function start(type="all"){mode=type;queue=words.map((_,i)=>i).filter(i=>type!=="review"||words[i].unknown>0);for(let i=queue.length-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[queue[i],queue[j]]=[queue[j],queue[i]]}pos=0;revealed=false;render()}
+function speak(text){
+ if(!text||!("speechSynthesis" in window))return;
+ window.speechSynthesis.cancel();
+ const utterance=new SpeechSynthesisUtterance(text);
+ utterance.lang="en-US";utterance.rate=0.85;utterance.pitch=1;
+ const voices=window.speechSynthesis.getVoices();
+ const english=voices.find(v=>v.lang.toLowerCase()==="en-us")||voices.find(v=>v.lang.toLowerCase().startsWith("en"));
+ if(english)utterance.voice=english;
+ window.speechSynthesis.speak(utterance);
+}
 function render(){
  $("total").textContent=words.length+" words";
  $("today").textContent="本日 "+day.answers+" 回";
  const done=pos>=queue.length;
+ $("speakWord").disabled=done;
+ $("speakExample").disabled=done||!words[queue[pos]]?.example;
  $("progress").textContent=queue.length?`${Math.min(pos+1,queue.length)} / ${queue.length} 枚`:"0 枚";
  $("bar").style.width=queue.length?Math.round(pos/queue.length*100)+"%":"0%";
  $("cardHint").textContent=done?"SESSION COMPLETE":"ENGLISH WORD";
@@ -46,7 +58,9 @@ function answer(known){
  if(known){w.known++;w.last=localDate()}else{w.unknown++;w.last=localDate();const offset=Math.min(5,Math.max(1,queue.length-pos-1));queue.splice(pos+1+offset,0,i)}
  day.answers++;save();saveDay();pos++;revealed=false;render()
 }
-$("card").addEventListener("click",flip);
+$("speakWord").onclick=e=>{e.stopPropagation();if(pos<queue.length)speak(words[queue[pos]].en)};
+$("speakExample").onclick=e=>{e.stopPropagation();if(pos<queue.length)speak(words[queue[pos]].example)};
+$("card").addEventListener("click",e=>{if(e.target.closest(".speech-controls"))return;flip()});
 $("card").addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();flip()}});
 $("known").onclick=()=>answer(true);$("unknown").onclick=()=>answer(false);
 $("restart").onclick=()=>start("all");$("review").onclick=()=>start("review");
