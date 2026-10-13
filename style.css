@@ -8,3 +8,9 @@
 @media(max-width:420px){.stats{gap:5px}.stats>div{padding:12px 3px}.stats strong{font-size:21px}.stats small{font-size:9px}.list-row{gap:7px;padding:10px}.list-row button{padding:9px 6px}.list-row .master-btn,.list-row .relearn-btn{max-width:100px}}
 
 [hidden]{display:none!important}
+
+.example-audio{margin-top:10px;padding:10px 16px;max-width:220px;align-self:center}
+.back-to-top{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:calc(20px + env(safe-area-inset-bottom));z-index:50;border:1px solid #4b6383;background:#24334e;color:#fff;padding:14px 17px;border-radius:999px;font-weight:800;box-shadow:0 5px 24px #0008;cursor:pointer}
+.list-row .list-example-audio{font-size:11px;padding:9px 7px;min-width:57px;white-space:nowrap}
+.list-row .list-example-audio:disabled{opacity:.3}
+@media(max-width:420px){.list-row{gap:5px}.list-row .list-example-audio{min-width:50px;padding:8px 4px}.list-row .master-btn,.list-row .relearn-btn{max-width:94px;font-size:10px}}
