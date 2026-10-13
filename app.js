@@ -1,122 +1,21 @@
-(()=>{
-"use strict";
-const KEY="lockin_vocab_v1",DAYKEY="lockin_day_v1";
-const starter=[
-{en:"discipline",jp:"規律・自制心",example:"Discipline beats motivation."},
-{en:"consistency",jp:"継続性・一貫性",example:"Consistency is the key."},
-{en:"overcome",jp:"克服する・乗り越える",example:"Overcome your fears."},
-{en:"procrastination",jp:"先延ばし",example:"Stop procrastinating."},
-{en:"commitment",jp:"決意・責任を持って取り組むこと",example:"Make a commitment."}
-];
+'use strict';
+const STORAGE_KEY='lock-in-english-basic-v1';
 const $=id=>document.getElementById(id);
-function safeLoad(key,fallback){try{const x=JSON.parse(localStorage.getItem(key));return x??fallback}catch{return fallback}}
-function makeWord(w){return {en:w.en.trim(),jp:w.jp.trim(),example:typeof w.example==="string"?w.example.trim():"",known:0,unknown:0,due:0,last:""}}
-let words=safeLoad(KEY,null);
-if(!Array.isArray(words)){words=starter.map(makeWord);save()}
-let day=safeLoad(DAYKEY,{date:"",answers:0});
-const localDate=()=>{const d=new Date();return [d.getFullYear(),String(d.getMonth()+1).padStart(2,"0"),String(d.getDate()).padStart(2,"0")].join("-")};
-if(day.date!==localDate())day={date:localDate(),answers:0};
-let queue=[],pos=0,revealed=false,mode="all";
-function save(){localStorage.setItem(KEY,JSON.stringify(words))}
-function saveDay(){localStorage.setItem(DAYKEY,JSON.stringify(day))}
-function getId(w){return w.en.toLocaleLowerCase().replace(/\s+/g," ").trim()}
-function start(type="all"){mode=type;queue=words.map((_,i)=>i).filter(i=>type!=="review"||words[i].unknown>0);for(let i=queue.length-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[queue[i],queue[j]]=[queue[j],queue[i]]}pos=0;revealed=false;render()}
-function speak(text){
- if(!text||!("speechSynthesis" in window))return;
- window.speechSynthesis.cancel();
- const utterance=new SpeechSynthesisUtterance(text);
- utterance.lang="en-US";utterance.rate=0.85;utterance.pitch=1;
- const voices=window.speechSynthesis.getVoices();
- const english=voices.find(v=>v.lang.toLowerCase()==="en-us")||voices.find(v=>v.lang.toLowerCase().startsWith("en"));
- if(english)utterance.voice=english;
- window.speechSynthesis.speak(utterance);
-}
-function render(){
- $("total").textContent=words.length+" words";
- $("today").textContent="本日 "+day.answers+" 回";
- const done=pos>=queue.length;
- $("speakWord").disabled=done;
- $("speakExample").disabled=done||!words[queue[pos]]?.example;
- $("progress").textContent=queue.length?`${Math.min(pos+1,queue.length)} / ${queue.length} 枚`:"0 枚";
- $("bar").style.width=queue.length?Math.round(pos/queue.length*100)+"%":"0%";
- $("cardHint").textContent=done?"SESSION COMPLETE":"ENGLISH WORD";
- $("word").textContent=done?(words.length?"学習完了！":"単語を追加しよう"):(words[queue[pos]]?.en||"単語がありません");
- $("meaning").textContent=done?"":words[queue[pos]].jp;
- $("example").textContent=done?"":words[queue[pos]].example;
- $("reveal").classList.toggle("visible",!done&&revealed);
- $("tapHint").textContent=done?(words.length?"もう一度学習する場合は下のボタンから":"「単語を追加」から取り込めます"):(revealed?"自分の理解度を選ぼう":"タップして日本語訳を確認");
- $("tapHint").style.display=revealed?"none":"block";
- $("actions").style.display=done||!revealed?"none":"grid";
- $("studyHelp").style.display=done?"none":"block";
- $("card").setAttribute("aria-label",done?"学習終了":revealed?"日本語訳を表示中":"タップして日本語訳を表示");
- $("review").textContent="苦手単語だけ ("+words.filter(w=>w.unknown>0).length+")";
-}
-function flip(){if(pos>=queue.length)return;revealed=true;render()}
-function answer(known){
- if(!revealed||pos>=queue.length)return;
- const i=queue[pos],w=words[i];if(!w)return;
- if(known){w.known++;w.last=localDate()}else{w.unknown++;w.last=localDate();const offset=Math.min(5,Math.max(1,queue.length-pos-1));queue.splice(pos+1+offset,0,i)}
- day.answers++;save();saveDay();pos++;revealed=false;render()
-}
-$("speakWord").onclick=e=>{e.stopPropagation();if(pos<queue.length)speak(words[queue[pos]].en)};
-$("speakExample").onclick=e=>{e.stopPropagation();if(pos<queue.length)speak(words[queue[pos]].example)};
-$("card").addEventListener("click",e=>{if(e.target.closest(".speech-controls"))return;flip()});
-$("card").addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();flip()}});
-$("known").onclick=()=>answer(true);$("unknown").onclick=()=>answer(false);
-$("restart").onclick=()=>start("all");$("review").onclick=()=>start("review");
-document.querySelectorAll(".tab").forEach(btn=>btn.onclick=()=>{
- document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b===btn));
- document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("hidden",p.id!==btn.dataset.tab));
- if(btn.dataset.tab==="library")renderLibrary()
-});
-function normalizeImported(data){
- if(!Array.isArray(data))throw Error("JSONの一番外側は [ ] の配列にしてください。");
- if(data.length>3000)throw Error("一度に取り込めるのは3000語までです。");
- return data.map((w,i)=>{
-  if(!w||typeof w.en!=="string"||typeof w.jp!=="string"||!w.en.trim()||!w.jp.trim())throw Error(`${i+1}件目にenまたはjpがありません。`);
-  if(w.en.length>180||w.jp.length>500||(w.example&&String(w.example).length>1000))throw Error(`${i+1}件目の文字数が多すぎます。`);
-  return makeWord(w)
- })
-}
-$("add").onclick=()=>{
- try{
-  let raw=$("jsonInput").value.trim().replace(/^```(?:json)?\s*/i,"").replace(/\s*```$/,"");
-  const incoming=normalizeImported(JSON.parse(raw)),seen=new Set(words.map(getId));let added=0;
-  for(const w of incoming){if(!seen.has(getId(w))){words.push(w);seen.add(getId(w));added++}}
-  save();start("all");$("importMsg").textContent=`${added}語追加しました（重複 ${incoming.length-added}語）。`;if(added)$("jsonInput").value="";
- }catch(e){$("importMsg").textContent="取り込み失敗: "+e.message}
-};
-$("copyPrompt").onclick=async()=>{try{await navigator.clipboard.writeText($("prompt").textContent);$("importMsg").textContent="プロンプトをコピーしました。"}catch{$("importMsg").textContent="コピーできませんでした。テキストを手動で選択してください。"}};
-function renderLibrary(){
- $("count").textContent=words.length+"語";
- const q=$("search").value.toLowerCase().trim(),items=$("items");items.replaceChildren();
- words.forEach((w,i)=>{if(![w.en,w.jp].some(s=>s.toLowerCase().includes(q)))return;
-  const row=document.createElement("div");row.className="item";
-  const detail=document.createElement("div"),name=document.createElement("strong"),sub=document.createElement("small"),del=document.createElement("button");
-  name.textContent=w.en;sub.textContent=`${w.jp} · わかった ${w.known} / わからなかった ${w.unknown}`;
-  detail.append(name,sub);del.textContent="削除";del.setAttribute("aria-label",w.en+"を削除");
-  del.onclick=()=>{if(confirm(`「${w.en}」を削除しますか？`)){words.splice(i,1);save();start();renderLibrary()}};
-  row.append(detail,del);items.append(row)
- });
-};
-$("search").oninput=renderLibrary;
-$("clearAll").onclick=()=>{if(confirm("登録単語と学習履歴をすべて削除します。元に戻せません。続けますか？")){words=[];save();start();renderLibrary()}};
-$("export").onclick=()=>{
- const blob=new Blob([JSON.stringify({version:1,words,exportedAt:new Date().toISOString()},null,2)],{type:"application/json"});
- const url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="lock-in-english-backup.json";a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)
-};
-$("restore").onchange=async e=>{
- const file=e.target.files?.[0];if(!file)return;
- try{
-  const data=JSON.parse(await file.text());
-  if(!data||!Array.isArray(data.words))throw Error("バックアップ形式ではありません。");
-  const checked=normalizeImported(data.words);
-  const seen=new Set(words.map(getId));let added=0;
-  for(let i=0;i<checked.length;i++){const w=checked[i];if(!seen.has(getId(w))){const original=data.words[i];w.known=Math.max(0,Number(original.known)||0);w.unknown=Math.max(0,Number(original.unknown)||0);words.push(w);seen.add(getId(w));added++}}
-  save();start();$("importMsg").textContent=`バックアップから${added}語を追加しました。既存単語は保持しました。`;
- }catch(err){$("importMsg").textContent="復元失敗: "+err.message}
- e.target.value="";
-};
-saveDay();start();
-if("serviceWorker" in navigator&&location.protocol.startsWith("http"))window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));
-})();
+let words=[],progress={},queue=[],current=null,revealed=false;
+const dateKey=(d=new Date())=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+function addDays(n){const d=new Date();d.setHours(12,0,0,0);d.setDate(d.getDate()+n);return dateKey(d)}
+function save(){localStorage.setItem(STORAGE_KEY,JSON.stringify(progress))}
+function state(w){return progress[w.en]||{stage:0,due:null}}
+function due(w){const s=state(w);return s.stage===0||!!s.due&&s.due<=dateKey()}
+function status(w){const s=state(w);return s.stage===0?'未習得':due(w)?'復習日到来':`復習待ち（${s.due}）`}
+function updateStats(){const learned=words.filter(w=>state(w).stage>0).length;$('knownCount').textContent=learned;$('dueCount').textContent=words.filter(due).length;$('totalCount').textContent=words.length;$('progressFill').style.width=`${words.length?learned/words.length*100:0}%`;$('progressText').textContent=`習得中 ${learned} / ${words.length} 語 · 習得中の単語も復習日に再登場します`}
+function buildQueue(){queue=words.filter(due).map(w=>w.en);showNext()}
+function showNext(){revealed=false;current=queue.length?words.find(w=>w.en===queue[0]):null;const active=!!current;$('card').hidden=!active;$('known').disabled=!active;$('again').disabled=!active;if(!active){$('studyMessage').textContent='今日の学習は完了！ 次の復習日を楽しみに。';return}$('studyMessage').textContent='意味を思い出してから答えを表示しよう';$('cardIndex').textContent=`WORD ${words.indexOf(current)+1} / ${words.length}`;$('word').textContent=current.en;$('ipa').textContent=current.ipa||'';$('meaning').textContent=current.ja;$('example').textContent=current.example||'';$('translation').textContent=current.exampleJa||'';$('example').hidden=!current.example;$('translation').hidden=!current.exampleJa;$('answer').hidden=true;$('reveal').hidden=false;$('known').disabled=true;$('again').disabled=true}
+function reveal(){if(!current)return;revealed=true;$('answer').hidden=false;$('reveal').hidden=true;$('known').disabled=false;$('again').disabled=false}
+function grade(success){if(!current||!revealed)return;const key=current.en;const s=state(current);if(success){const stage=Math.min((s.stage||0)+1,4);const days=[0,3,7,14,30][stage];progress[key]={stage,due:addDays(days)}}else{progress[key]={stage:0,due:null}}save();queue.shift();if(!success){queue.push(key)}updateStats();showNext();renderList()}
+function speak(text){if(!('speechSynthesis'in window)){alert('このブラウザは音声再生に対応していません');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.85;const voices=speechSynthesis.getVoices();const v=voices.find(v=>v.lang==='en-US')||voices.find(v=>v.lang.startsWith('en'));if(v)u.voice=v;speechSynthesis.speak(u)}
+function renderList(){const term=$('search').value.toLowerCase().trim(),filter=$('filter').value;const selected=words.filter(w=>(w.en.toLowerCase().includes(term)||w.ja.includes(term))&&(filter==='all'||filter==='new'&&state(w).stage===0||filter==='review'&&state(w).stage>0&&!due(w)||filter==='due'&&state(w).stage>0&&due(w)));const root=$('wordList');root.replaceChildren();for(const w of selected){const r=document.createElement('div');r.className='list-row';const info=document.createElement('div');info.className='info';const name=document.createElement('strong');name.textContent=w.en;const sub=document.createElement('small');sub.textContent=`${w.ipa||''} · ${w.ja}`;const badge=document.createElement('div');badge.className='status';badge.textContent=status(w);info.append(name,sub,badge);const audio=document.createElement('button');audio.textContent='🔊';audio.title='発音を聞く';audio.onclick=()=>speak(w.en);const reset=document.createElement('button');reset.textContent='再学習';reset.title='未習得に戻す';reset.onclick=()=>{progress[w.en]={stage:0,due:null};save();updateStats();buildQueue();renderList()};r.append(info,audio,reset);root.append(r)}if(!selected.length){const p=document.createElement('p');p.className='muted';p.textContent='該当する単語がありません';root.append(p)}}
+function download(name,data){const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
+function bind(){$('reveal').onclick=reveal;$('known').onclick=()=>grade(true);$('again').onclick=()=>grade(false);$('speak').onclick=()=>current&&speak(current.en);$('search').oninput=renderList;$('filter').onchange=renderList;document.querySelectorAll('.tab').forEach(btn=>btn.onclick=()=>{document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active',b===btn));document.querySelectorAll('.panel').forEach(p=>p.hidden=p.id!==btn.dataset.tab);if(btn.dataset.tab==='list')renderList()});$('export').onclick=()=>download('lock-in-english-progress.json',{version:1,progress});$('import').onchange=async e=>{const file=e.target.files[0];if(!file)return;try{const obj=JSON.parse(await file.text());if(obj.version!==1||!obj.progress||typeof obj.progress!=='object'||Array.isArray(obj.progress))throw Error('ファイル形式が違います');const safe={};for(const w of words){const s=obj.progress[w.en];if(s&&Number.isInteger(s.stage)&&s.stage>=0&&s.stage<=4&&(s.due===null||/^\d{4}-\d{2}-\d{2}$/.test(s.due))){safe[w.en]={stage:s.stage,due:s.due}}}if(!confirm('現在の学習記録を読み込んだ記録で置き換えますか？'))return;progress=safe;save();updateStats();buildQueue();renderList();alert('読み込みました')}catch(err){alert('読み込み失敗: '+err.message)}finally{e.target.value=''}};$('reset').onclick=()=>{if(confirm('学習記録をすべて削除しますか？ この操作は元に戻せません。')){progress={};save();updateStats();buildQueue();renderList()}}}
+async function init(){bind();try{const response=await fetch('data/words.json');if(!response.ok)throw Error('単語データを取得できません');words=await response.json();if(!Array.isArray(words)||!words.length)throw Error('単語データが空です');try{progress=JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}')||{}}catch{progress={}}updateStats();buildQueue();renderList()}catch(err){$('card').hidden=true;$('studyMessage').textContent=`読み込みエラー: ${err.message}。GitHub PagesなどのWebサーバーで開いてください。`}}
+init();

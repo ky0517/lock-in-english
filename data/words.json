@@ -1,0 +1,802 @@
+[
+  {
+    "en": "I",
+    "ja": "私",
+    "ipa": "/aɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "you",
+    "ja": "あなた",
+    "ipa": "/juː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "he",
+    "ja": "彼",
+    "ipa": "/hiː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "she",
+    "ja": "彼女",
+    "ipa": "/ʃiː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "we",
+    "ja": "私たち",
+    "ipa": "/wiː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "they",
+    "ja": "彼ら",
+    "ipa": "/ðeɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "it",
+    "ja": "それ",
+    "ipa": "/ɪt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "this",
+    "ja": "これ",
+    "ipa": "/ðɪs/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "that",
+    "ja": "あれ・それ",
+    "ipa": "/ðæt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "here",
+    "ja": "ここ",
+    "ipa": "/hɪr/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "there",
+    "ja": "そこ",
+    "ipa": "/ðer/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "who",
+    "ja": "誰",
+    "ipa": "/huː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "what",
+    "ja": "何",
+    "ipa": "/wʌt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "when",
+    "ja": "いつ",
+    "ipa": "/wen/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "where",
+    "ja": "どこ",
+    "ipa": "/wer/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "why",
+    "ja": "なぜ",
+    "ipa": "/waɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "how",
+    "ja": "どうやって",
+    "ipa": "/haʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "yes",
+    "ja": "はい",
+    "ipa": "/jes/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "no",
+    "ja": "いいえ",
+    "ipa": "/noʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "not",
+    "ja": "〜ではない",
+    "ipa": "/nɑːt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "be",
+    "ja": "〜である",
+    "ipa": "/biː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "have",
+    "ja": "持っている",
+    "ipa": "/hæv/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "do",
+    "ja": "する",
+    "ipa": "/duː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "go",
+    "ja": "行く",
+    "ipa": "/ɡoʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "come",
+    "ja": "来る",
+    "ipa": "/kʌm/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "get",
+    "ja": "得る・着く",
+    "ipa": "/ɡet/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "make",
+    "ja": "作る",
+    "ipa": "/meɪk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "take",
+    "ja": "取る",
+    "ipa": "/teɪk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "give",
+    "ja": "与える",
+    "ipa": "/ɡɪv/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "want",
+    "ja": "欲しい・〜したい",
+    "ipa": "/wɑːnt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "need",
+    "ja": "必要とする",
+    "ipa": "/niːd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "like",
+    "ja": "好き",
+    "ipa": "/laɪk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "love",
+    "ja": "愛する",
+    "ipa": "/lʌv/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "know",
+    "ja": "知っている",
+    "ipa": "/noʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "think",
+    "ja": "考える",
+    "ipa": "/θɪŋk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "say",
+    "ja": "言う",
+    "ipa": "/seɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tell",
+    "ja": "伝える",
+    "ipa": "/tel/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "ask",
+    "ja": "尋ねる",
+    "ipa": "/æsk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "talk",
+    "ja": "話す",
+    "ipa": "/tɔːk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "speak",
+    "ja": "話す",
+    "ipa": "/spiːk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "listen",
+    "ja": "聞く",
+    "ipa": "/ˈlɪsən/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "hear",
+    "ja": "聞こえる",
+    "ipa": "/hɪr/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "see",
+    "ja": "見る",
+    "ipa": "/siː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "look",
+    "ja": "見る",
+    "ipa": "/lʊk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "watch",
+    "ja": "見る",
+    "ipa": "/wɑːtʃ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "read",
+    "ja": "読む",
+    "ipa": "/riːd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "write",
+    "ja": "書く",
+    "ipa": "/raɪt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "learn",
+    "ja": "学ぶ",
+    "ipa": "/lɝːn/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "study",
+    "ja": "勉強する",
+    "ipa": "/ˈstʌdi/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "understand",
+    "ja": "理解する",
+    "ipa": "/ˌʌndərˈstænd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "work",
+    "ja": "働く",
+    "ipa": "/wɝːk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "play",
+    "ja": "遊ぶ",
+    "ipa": "/pleɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "eat",
+    "ja": "食べる",
+    "ipa": "/iːt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "drink",
+    "ja": "飲む",
+    "ipa": "/drɪŋk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sleep",
+    "ja": "眠る",
+    "ipa": "/sliːp/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "wake",
+    "ja": "目覚める",
+    "ipa": "/weɪk/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "buy",
+    "ja": "買う",
+    "ipa": "/baɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "pay",
+    "ja": "支払う",
+    "ipa": "/peɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "use",
+    "ja": "使う",
+    "ipa": "/juːz/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "help",
+    "ja": "助ける",
+    "ipa": "/help/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "try",
+    "ja": "試す",
+    "ipa": "/traɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "start",
+    "ja": "始める",
+    "ipa": "/stɑːrt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "stop",
+    "ja": "止める",
+    "ipa": "/stɑːp/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "finish",
+    "ja": "終える",
+    "ipa": "/ˈfɪnɪʃ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "live",
+    "ja": "住む・生きる",
+    "ipa": "/lɪv/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "meet",
+    "ja": "会う",
+    "ipa": "/miːt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "find",
+    "ja": "見つける",
+    "ipa": "/faɪnd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "feel",
+    "ja": "感じる",
+    "ipa": "/fiːl/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "good",
+    "ja": "良い",
+    "ipa": "/ɡʊd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "bad",
+    "ja": "悪い",
+    "ipa": "/bæd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "big",
+    "ja": "大きい",
+    "ipa": "/bɪɡ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "small",
+    "ja": "小さい",
+    "ipa": "/smɔːl/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "new",
+    "ja": "新しい",
+    "ipa": "/nuː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "old",
+    "ja": "古い・年を取った",
+    "ipa": "/oʊld/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "easy",
+    "ja": "簡単な",
+    "ipa": "/ˈiːzi/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "hard",
+    "ja": "難しい・硬い",
+    "ipa": "/hɑːrd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "happy",
+    "ja": "幸せな",
+    "ipa": "/ˈhæpi/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tired",
+    "ja": "疲れた",
+    "ipa": "/ˈtaɪərd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "busy",
+    "ja": "忙しい",
+    "ipa": "/ˈbɪzi/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "important",
+    "ja": "重要な",
+    "ipa": "/ɪmˈpɔːrtənt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "today",
+    "ja": "今日",
+    "ipa": "/təˈdeɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tomorrow",
+    "ja": "明日",
+    "ipa": "/təˈmɑːroʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "yesterday",
+    "ja": "昨日",
+    "ipa": "/ˈjestərdeɪ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "now",
+    "ja": "今",
+    "ipa": "/naʊ/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "always",
+    "ja": "いつも",
+    "ipa": "/ˈɔːlweɪz/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "usually",
+    "ja": "普段は",
+    "ipa": "/ˈjuːʒuəli/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sometimes",
+    "ja": "時々",
+    "ipa": "/ˈsʌmtaɪmz/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "never",
+    "ja": "決して〜ない",
+    "ipa": "/ˈnevər/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "very",
+    "ja": "とても",
+    "ipa": "/ˈveri/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "really",
+    "ja": "本当に",
+    "ipa": "/ˈriːəli/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "and",
+    "ja": "そして",
+    "ipa": "/ænd/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "but",
+    "ja": "しかし",
+    "ipa": "/bʌt/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "because",
+    "ja": "なぜなら",
+    "ipa": "/bɪˈkɔːz/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "if",
+    "ja": "もし",
+    "ipa": "/ɪf/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "with",
+    "ja": "〜と一緒に",
+    "ipa": "/wɪð/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "for",
+    "ja": "〜のために",
+    "ipa": "/fɔːr/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "from",
+    "ja": "〜から",
+    "ipa": "/frʌm/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "to",
+    "ja": "〜へ",
+    "ipa": "/tuː/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "in",
+    "ja": "〜の中に",
+    "ipa": "/ɪn/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "on",
+    "ja": "〜の上に",
+    "ipa": "/ɑːn/",
+    "example": "",
+    "exampleJa": "",
+    "status": "new"
+  }
+]
