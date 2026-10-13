@@ -798,5 +798,805 @@
     "example": "",
     "exampleJa": "",
     "status": "new"
+  },
+  {
+    "en": "can",
+    "ja": "〜できる",
+    "ipa": "/kæn/",
+    "example": "I can swim.",
+    "exampleJa": "私は泳げます。",
+    "status": "new"
+  },
+  {
+    "en": "could",
+    "ja": "〜できた・〜していただけますか",
+    "ipa": "/kʊd/",
+    "example": "Could you help me?",
+    "exampleJa": "手伝っていただけますか。",
+    "status": "new"
+  },
+  {
+    "en": "will",
+    "ja": "〜するつもり",
+    "ipa": "/wɪl/",
+    "example": "I will call you.",
+    "exampleJa": "電話します。",
+    "status": "new"
+  },
+  {
+    "en": "would",
+    "ja": "〜でしょう・〜したい",
+    "ipa": "/wʊd/",
+    "example": "I would like some water.",
+    "exampleJa": "お水をいただきたいです。",
+    "status": "new"
+  },
+  {
+    "en": "should",
+    "ja": "〜すべき",
+    "ipa": "/ʃʊd/",
+    "example": "You should rest.",
+    "exampleJa": "休んだほうがいいよ。",
+    "status": "new"
+  },
+  {
+    "en": "must",
+    "ja": "〜しなければならない",
+    "ipa": "/mʌst/",
+    "example": "I must leave now.",
+    "exampleJa": "もう行かなければなりません。",
+    "status": "new"
+  },
+  {
+    "en": "may",
+    "ja": "〜かもしれない",
+    "ipa": "/meɪ/",
+    "example": "It may rain.",
+    "exampleJa": "雨が降るかもしれません。",
+    "status": "new"
+  },
+  {
+    "en": "might",
+    "ja": "〜かもしれない",
+    "ipa": "/maɪt/",
+    "example": "I might go tomorrow.",
+    "exampleJa": "明日行くかもしれません。",
+    "status": "new"
+  },
+  {
+    "en": "about",
+    "ja": "〜について",
+    "ipa": "/əˈbaʊt/",
+    "example": "Tell me about your trip.",
+    "exampleJa": "旅行について教えて。",
+    "status": "new"
+  },
+  {
+    "en": "after",
+    "ja": "〜の後に",
+    "ipa": "/ˈæftər/",
+    "example": "Let's talk after lunch.",
+    "exampleJa": "昼食後に話そう。",
+    "status": "new"
+  },
+  {
+    "en": "before",
+    "ja": "〜の前に",
+    "ipa": "/bɪˈfɔːr/",
+    "example": "Call me before dinner.",
+    "exampleJa": "夕食前に電話して。",
+    "status": "new"
+  },
+  {
+    "en": "between",
+    "ja": "〜の間に",
+    "ipa": "/bɪˈtwiːn/",
+    "example": "Sit between us.",
+    "exampleJa": "私たちの間に座って。",
+    "status": "new"
+  },
+  {
+    "en": "under",
+    "ja": "〜の下に",
+    "ipa": "/ˈʌndər/",
+    "example": "The bag is under the chair.",
+    "exampleJa": "かばんは椅子の下です。",
+    "status": "new"
+  },
+  {
+    "en": "over",
+    "ja": "〜の上に・〜を越えて",
+    "ipa": "/ˈoʊvər/",
+    "example": "The plane flew over us.",
+    "exampleJa": "飛行機が私たちの上を飛びました。",
+    "status": "new"
+  },
+  {
+    "en": "around",
+    "ja": "〜の周りに",
+    "ipa": "/əˈraʊnd/",
+    "example": "Let's walk around town.",
+    "exampleJa": "町を歩き回ろう。",
+    "status": "new"
+  },
+  {
+    "en": "through",
+    "ja": "〜を通って",
+    "ipa": "/θruː/",
+    "example": "We walked through the park.",
+    "exampleJa": "公園を通って歩きました。",
+    "status": "new"
+  },
+  {
+    "en": "without",
+    "ja": "〜なしで",
+    "ipa": "/wɪˈðaʊt/",
+    "example": "I can't go without you.",
+    "exampleJa": "あなたなしでは行けません。",
+    "status": "new"
+  },
+  {
+    "en": "during",
+    "ja": "〜の間に",
+    "ipa": "/ˈdʊrɪŋ/",
+    "example": "I slept during the flight.",
+    "exampleJa": "飛行中に寝ました。",
+    "status": "new"
+  },
+  {
+    "en": "until",
+    "ja": "〜までずっと",
+    "ipa": "/ənˈtɪl/",
+    "example": "Wait until five.",
+    "exampleJa": "5時まで待って。",
+    "status": "new"
+  },
+  {
+    "en": "than",
+    "ja": "〜より",
+    "ipa": "/ðæn/",
+    "example": "This is better than that.",
+    "exampleJa": "これはあれより良いです。",
+    "status": "new"
+  },
+  {
+    "en": "also",
+    "ja": "〜もまた",
+    "ipa": "/ˈɔːlsoʊ/",
+    "example": "I also like soccer.",
+    "exampleJa": "私もサッカーが好きです。",
+    "status": "new"
+  },
+  {
+    "en": "only",
+    "ja": "〜だけ",
+    "ipa": "/ˈoʊnli/",
+    "example": "I only have ten minutes.",
+    "exampleJa": "10分しかありません。",
+    "status": "new"
+  },
+  {
+    "en": "still",
+    "ja": "まだ・今も",
+    "ipa": "/stɪl/",
+    "example": "I'm still learning.",
+    "exampleJa": "まだ勉強中です。",
+    "status": "new"
+  },
+  {
+    "en": "already",
+    "ja": "すでに",
+    "ipa": "/ɔːlˈredi/",
+    "example": "I already ate.",
+    "exampleJa": "もう食べました。",
+    "status": "new"
+  },
+  {
+    "en": "again",
+    "ja": "もう一度",
+    "ipa": "/əˈɡen/",
+    "example": "Please say that again.",
+    "exampleJa": "もう一度言ってください。",
+    "status": "new"
+  },
+  {
+    "en": "often",
+    "ja": "よく・頻繁に",
+    "ipa": "/ˈɔːfən/",
+    "example": "I often go to the gym.",
+    "exampleJa": "よくジムに行きます。",
+    "status": "new"
+  },
+  {
+    "en": "maybe",
+    "ja": "たぶん",
+    "ipa": "/ˈmeɪbi/",
+    "example": "Maybe next week.",
+    "exampleJa": "たぶん来週です。",
+    "status": "new"
+  },
+  {
+    "en": "probably",
+    "ja": "おそらく",
+    "ipa": "/ˈprɑːbəbli/",
+    "example": "I'll probably stay home.",
+    "exampleJa": "おそらく家にいます。",
+    "status": "new"
+  },
+  {
+    "en": "almost",
+    "ja": "ほとんど",
+    "ipa": "/ˈɔːlmoʊst/",
+    "example": "I'm almost ready.",
+    "exampleJa": "もうすぐ準備できます。",
+    "status": "new"
+  },
+  {
+    "en": "enough",
+    "ja": "十分な・十分に",
+    "ipa": "/ɪˈnʌf/",
+    "example": "We have enough time.",
+    "exampleJa": "時間は十分あります。",
+    "status": "new"
+  },
+  {
+    "en": "more",
+    "ja": "もっと多く",
+    "ipa": "/mɔːr/",
+    "example": "I need more time.",
+    "exampleJa": "もっと時間が必要です。",
+    "status": "new"
+  },
+  {
+    "en": "less",
+    "ja": "より少なく",
+    "ipa": "/les/",
+    "example": "I want less sugar.",
+    "exampleJa": "砂糖を少なめにしたいです。",
+    "status": "new"
+  },
+  {
+    "en": "most",
+    "ja": "最も多くの",
+    "ipa": "/moʊst/",
+    "example": "Most people agree.",
+    "exampleJa": "ほとんどの人が賛成です。",
+    "status": "new"
+  },
+  {
+    "en": "much",
+    "ja": "多くの・とても",
+    "ipa": "/mʌtʃ/",
+    "example": "Thank you so much.",
+    "exampleJa": "本当にありがとう。",
+    "status": "new"
+  },
+  {
+    "en": "many",
+    "ja": "多くの",
+    "ipa": "/ˈmeni/",
+    "example": "I have many questions.",
+    "exampleJa": "質問がたくさんあります。",
+    "status": "new"
+  },
+  {
+    "en": "few",
+    "ja": "少しの・ほとんどない",
+    "ipa": "/fjuː/",
+    "example": "I have a few ideas.",
+    "exampleJa": "いくつか考えがあります。",
+    "status": "new"
+  },
+  {
+    "en": "some",
+    "ja": "いくつかの",
+    "ipa": "/sʌm/",
+    "example": "I need some water.",
+    "exampleJa": "水が少し必要です。",
+    "status": "new"
+  },
+  {
+    "en": "any",
+    "ja": "何か・どれでも",
+    "ipa": "/ˈeni/",
+    "example": "Do you have any questions?",
+    "exampleJa": "何か質問はありますか。",
+    "status": "new"
+  },
+  {
+    "en": "every",
+    "ja": "すべての・毎〜",
+    "ipa": "/ˈevri/",
+    "example": "I study every day.",
+    "exampleJa": "毎日勉強します。",
+    "status": "new"
+  },
+  {
+    "en": "each",
+    "ja": "それぞれの",
+    "ipa": "/iːtʃ/",
+    "example": "Each person is different.",
+    "exampleJa": "人はそれぞれ違います。",
+    "status": "new"
+  },
+  {
+    "en": "other",
+    "ja": "ほかの",
+    "ipa": "/ˈʌðər/",
+    "example": "Do you have other plans?",
+    "exampleJa": "ほかに予定はありますか。",
+    "status": "new"
+  },
+  {
+    "en": "another",
+    "ja": "もう一つの",
+    "ipa": "/əˈnʌðər/",
+    "example": "Can I have another one?",
+    "exampleJa": "もう一つもらえますか。",
+    "status": "new"
+  },
+  {
+    "en": "same",
+    "ja": "同じ",
+    "ipa": "/seɪm/",
+    "example": "We have the same idea.",
+    "exampleJa": "私たちは同じ考えです。",
+    "status": "new"
+  },
+  {
+    "en": "different",
+    "ja": "違う",
+    "ipa": "/ˈdɪfrənt/",
+    "example": "This is different.",
+    "exampleJa": "これは違います。",
+    "status": "new"
+  },
+  {
+    "en": "right",
+    "ja": "正しい・右",
+    "ipa": "/raɪt/",
+    "example": "You're right.",
+    "exampleJa": "そのとおりです。",
+    "status": "new"
+  },
+  {
+    "en": "wrong",
+    "ja": "間違った",
+    "ipa": "/rɔːŋ/",
+    "example": "I was wrong.",
+    "exampleJa": "私が間違っていました。",
+    "status": "new"
+  },
+  {
+    "en": "sure",
+    "ja": "確かな",
+    "ipa": "/ʃʊr/",
+    "example": "I'm not sure.",
+    "exampleJa": "よく分かりません。",
+    "status": "new"
+  },
+  {
+    "en": "ready",
+    "ja": "準備ができた",
+    "ipa": "/ˈredi/",
+    "example": "Are you ready?",
+    "exampleJa": "準備はできた？",
+    "status": "new"
+  },
+  {
+    "en": "late",
+    "ja": "遅い",
+    "ipa": "/leɪt/",
+    "example": "Sorry I'm late.",
+    "exampleJa": "遅れてごめんなさい。",
+    "status": "new"
+  },
+  {
+    "en": "early",
+    "ja": "早い",
+    "ipa": "/ˈɝːli/",
+    "example": "I woke up early.",
+    "exampleJa": "早起きしました。",
+    "status": "new"
+  },
+  {
+    "en": "free",
+    "ja": "空いている・無料の",
+    "ipa": "/friː/",
+    "example": "Are you free tonight?",
+    "exampleJa": "今夜は空いていますか。",
+    "status": "new"
+  },
+  {
+    "en": "full",
+    "ja": "いっぱいの",
+    "ipa": "/fʊl/",
+    "example": "The train is full.",
+    "exampleJa": "電車は満員です。",
+    "status": "new"
+  },
+  {
+    "en": "open",
+    "ja": "開いている・開ける",
+    "ipa": "/ˈoʊpən/",
+    "example": "Is the shop open?",
+    "exampleJa": "お店は開いていますか。",
+    "status": "new"
+  },
+  {
+    "en": "close",
+    "ja": "閉める",
+    "ipa": "/kloʊz/",
+    "example": "Please close the door.",
+    "exampleJa": "ドアを閉めてください。",
+    "status": "new"
+  },
+  {
+    "en": "keep",
+    "ja": "保つ・続ける",
+    "ipa": "/kiːp/",
+    "example": "Keep going.",
+    "exampleJa": "そのまま続けて。",
+    "status": "new"
+  },
+  {
+    "en": "leave",
+    "ja": "出発する・去る",
+    "ipa": "/liːv/",
+    "example": "I leave at eight.",
+    "exampleJa": "8時に出発します。",
+    "status": "new"
+  },
+  {
+    "en": "arrive",
+    "ja": "到着する",
+    "ipa": "/əˈraɪv/",
+    "example": "We arrived safely.",
+    "exampleJa": "無事に到着しました。",
+    "status": "new"
+  },
+  {
+    "en": "bring",
+    "ja": "持ってくる",
+    "ipa": "/brɪŋ/",
+    "example": "Bring your passport.",
+    "exampleJa": "パスポートを持ってきて。",
+    "status": "new"
+  },
+  {
+    "en": "carry",
+    "ja": "運ぶ・持ち歩く",
+    "ipa": "/ˈkæri/",
+    "example": "I carry a small bag.",
+    "exampleJa": "小さなかばんを持ち歩きます。",
+    "status": "new"
+  },
+  {
+    "en": "put",
+    "ja": "置く",
+    "ipa": "/pʊt/",
+    "example": "Put it here.",
+    "exampleJa": "ここに置いて。",
+    "status": "new"
+  },
+  {
+    "en": "move",
+    "ja": "動く・引っ越す",
+    "ipa": "/muːv/",
+    "example": "Please move a little.",
+    "exampleJa": "少し動いてください。",
+    "status": "new"
+  },
+  {
+    "en": "turn",
+    "ja": "曲がる・回す",
+    "ipa": "/tɝːn/",
+    "example": "Turn left here.",
+    "exampleJa": "ここで左に曲がって。",
+    "status": "new"
+  },
+  {
+    "en": "wait",
+    "ja": "待つ",
+    "ipa": "/weɪt/",
+    "example": "Please wait a moment.",
+    "exampleJa": "少し待ってください。",
+    "status": "new"
+  },
+  {
+    "en": "stay",
+    "ja": "滞在する",
+    "ipa": "/steɪ/",
+    "example": "We stayed two nights.",
+    "exampleJa": "2泊しました。",
+    "status": "new"
+  },
+  {
+    "en": "travel",
+    "ja": "旅行する",
+    "ipa": "/ˈtrævəl/",
+    "example": "I love to travel.",
+    "exampleJa": "旅行が大好きです。",
+    "status": "new"
+  },
+  {
+    "en": "visit",
+    "ja": "訪れる",
+    "ipa": "/ˈvɪzɪt/",
+    "example": "I want to visit Spain.",
+    "exampleJa": "スペインを訪れたいです。",
+    "status": "new"
+  },
+  {
+    "en": "drive",
+    "ja": "運転する",
+    "ipa": "/draɪv/",
+    "example": "I drive to work.",
+    "exampleJa": "車で通勤します。",
+    "status": "new"
+  },
+  {
+    "en": "walk",
+    "ja": "歩く",
+    "ipa": "/wɔːk/",
+    "example": "Let's walk together.",
+    "exampleJa": "一緒に歩こう。",
+    "status": "new"
+  },
+  {
+    "en": "run",
+    "ja": "走る",
+    "ipa": "/rʌn/",
+    "example": "I run every morning.",
+    "exampleJa": "毎朝走ります。",
+    "status": "new"
+  },
+  {
+    "en": "sit",
+    "ja": "座る",
+    "ipa": "/sɪt/",
+    "example": "Please sit here.",
+    "exampleJa": "ここに座ってください。",
+    "status": "new"
+  },
+  {
+    "en": "stand",
+    "ja": "立つ",
+    "ipa": "/stænd/",
+    "example": "Please stand up.",
+    "exampleJa": "立ってください。",
+    "status": "new"
+  },
+  {
+    "en": "choose",
+    "ja": "選ぶ",
+    "ipa": "/tʃuːz/",
+    "example": "You can choose.",
+    "exampleJa": "選んでいいですよ。",
+    "status": "new"
+  },
+  {
+    "en": "decide",
+    "ja": "決める",
+    "ipa": "/dɪˈsaɪd/",
+    "example": "I can't decide.",
+    "exampleJa": "決められません。",
+    "status": "new"
+  },
+  {
+    "en": "change",
+    "ja": "変える・変わる",
+    "ipa": "/tʃeɪndʒ/",
+    "example": "I want to change my plan.",
+    "exampleJa": "予定を変えたいです。",
+    "status": "new"
+  },
+  {
+    "en": "remember",
+    "ja": "覚えている・思い出す",
+    "ipa": "/rɪˈmembər/",
+    "example": "I remember that day.",
+    "exampleJa": "その日を覚えています。",
+    "status": "new"
+  },
+  {
+    "en": "forget",
+    "ja": "忘れる",
+    "ipa": "/fərˈɡet/",
+    "example": "Don't forget your phone.",
+    "exampleJa": "携帯を忘れないで。",
+    "status": "new"
+  },
+  {
+    "en": "believe",
+    "ja": "信じる",
+    "ipa": "/bɪˈliːv/",
+    "example": "I believe you.",
+    "exampleJa": "あなたを信じます。",
+    "status": "new"
+  },
+  {
+    "en": "hope",
+    "ja": "望む",
+    "ipa": "/hoʊp/",
+    "example": "I hope so.",
+    "exampleJa": "そうだといいな。",
+    "status": "new"
+  },
+  {
+    "en": "enjoy",
+    "ja": "楽しむ",
+    "ipa": "/ɪnˈdʒɔɪ/",
+    "example": "Enjoy your trip!",
+    "exampleJa": "旅行を楽しんで！",
+    "status": "new"
+  },
+  {
+    "en": "prefer",
+    "ja": "より好む",
+    "ipa": "/prɪˈfɝː/",
+    "example": "I prefer tea.",
+    "exampleJa": "紅茶のほうが好きです。",
+    "status": "new"
+  },
+  {
+    "en": "agree",
+    "ja": "賛成する",
+    "ipa": "/əˈɡriː/",
+    "example": "I agree with you.",
+    "exampleJa": "あなたに賛成です。",
+    "status": "new"
+  },
+  {
+    "en": "explain",
+    "ja": "説明する",
+    "ipa": "/ɪkˈspleɪn/",
+    "example": "Can you explain this?",
+    "exampleJa": "これを説明してくれる？",
+    "status": "new"
+  },
+  {
+    "en": "show",
+    "ja": "見せる",
+    "ipa": "/ʃoʊ/",
+    "example": "Show me the picture.",
+    "exampleJa": "写真を見せて。",
+    "status": "new"
+  },
+  {
+    "en": "send",
+    "ja": "送る",
+    "ipa": "/send/",
+    "example": "I'll send you a message.",
+    "exampleJa": "メッセージを送ります。",
+    "status": "new"
+  },
+  {
+    "en": "call",
+    "ja": "電話する・呼ぶ",
+    "ipa": "/kɔːl/",
+    "example": "Can I call you later?",
+    "exampleJa": "あとで電話していい？",
+    "status": "new"
+  },
+  {
+    "en": "answer",
+    "ja": "答える",
+    "ipa": "/ˈænsər/",
+    "example": "Please answer my question.",
+    "exampleJa": "質問に答えてください。",
+    "status": "new"
+  },
+  {
+    "en": "check",
+    "ja": "確認する",
+    "ipa": "/tʃek/",
+    "example": "Let me check.",
+    "exampleJa": "確認させてください。",
+    "status": "new"
+  },
+  {
+    "en": "fix",
+    "ja": "直す",
+    "ipa": "/fɪks/",
+    "example": "Can you fix this?",
+    "exampleJa": "これを直せますか。",
+    "status": "new"
+  },
+  {
+    "en": "break",
+    "ja": "壊す・休憩",
+    "ipa": "/breɪk/",
+    "example": "Don't break it.",
+    "exampleJa": "壊さないで。",
+    "status": "new"
+  },
+  {
+    "en": "happen",
+    "ja": "起こる",
+    "ipa": "/ˈhæpən/",
+    "example": "What happened?",
+    "exampleJa": "何があったの？",
+    "status": "new"
+  },
+  {
+    "en": "become",
+    "ja": "〜になる",
+    "ipa": "/bɪˈkʌm/",
+    "example": "I want to become stronger.",
+    "exampleJa": "もっと強くなりたいです。",
+    "status": "new"
+  },
+  {
+    "en": "grow",
+    "ja": "成長する・育つ",
+    "ipa": "/ɡroʊ/",
+    "example": "My son is growing fast.",
+    "exampleJa": "息子はすくすく育っています。",
+    "status": "new"
+  },
+  {
+    "en": "improve",
+    "ja": "上達する・改善する",
+    "ipa": "/ɪmˈpruːv/",
+    "example": "I want to improve my English.",
+    "exampleJa": "英語を上達させたいです。",
+    "status": "new"
+  },
+  {
+    "en": "practice",
+    "ja": "練習する",
+    "ipa": "/ˈpræktɪs/",
+    "example": "I practice speaking every day.",
+    "exampleJa": "毎日話す練習をします。",
+    "status": "new"
+  },
+  {
+    "en": "continue",
+    "ja": "続ける",
+    "ipa": "/kənˈtɪnjuː/",
+    "example": "I want to continue learning.",
+    "exampleJa": "学び続けたいです。",
+    "status": "new"
+  },
+  {
+    "en": "plan",
+    "ja": "計画する・計画",
+    "ipa": "/plæn/",
+    "example": "Let's plan our trip.",
+    "exampleJa": "旅行の計画を立てよう。",
+    "status": "new"
+  },
+  {
+    "en": "prepare",
+    "ja": "準備する",
+    "ipa": "/prɪˈper/",
+    "example": "I need to prepare.",
+    "exampleJa": "準備する必要があります。",
+    "status": "new"
+  },
+  {
+    "en": "spend",
+    "ja": "（時間・お金を）使う",
+    "ipa": "/spend/",
+    "example": "I spend time with my family.",
+    "exampleJa": "家族と時間を過ごします。",
+    "status": "new"
+  },
+  {
+    "en": "save",
+    "ja": "節約する・保存する",
+    "ipa": "/seɪv/",
+    "example": "I want to save money.",
+    "exampleJa": "お金を貯めたいです。",
+    "status": "new"
+  },
+  {
+    "en": "family",
+    "ja": "家族",
+    "ipa": "/ˈfæməli/",
+    "example": "My family is important to me.",
+    "exampleJa": "家族は私にとって大切です。",
+    "status": "new"
   }
 ]
