@@ -1598,5 +1598,805 @@
     "example": "My family is important to me.",
     "exampleJa": "家族は私にとって大切です。",
     "status": "new"
+  },
+  {
+    "en": "time",
+    "ja": "時間",
+    "ipa": "/taɪm/",
+    "example": "What time is it?",
+    "exampleJa": "今何時ですか。",
+    "status": "new"
+  },
+  {
+    "en": "day",
+    "ja": "日",
+    "ipa": "/deɪ/",
+    "example": "Have a nice day.",
+    "exampleJa": "良い一日を。",
+    "status": "new"
+  },
+  {
+    "en": "week",
+    "ja": "週",
+    "ipa": "/wiːk/",
+    "example": "See you next week.",
+    "exampleJa": "また来週。",
+    "status": "new"
+  },
+  {
+    "en": "month",
+    "ja": "月",
+    "ipa": "/mʌnθ/",
+    "example": "I'm busy this month.",
+    "exampleJa": "今月は忙しいです。",
+    "status": "new"
+  },
+  {
+    "en": "year",
+    "ja": "年",
+    "ipa": "/jɪr/",
+    "example": "I visit Japan every year.",
+    "exampleJa": "毎年日本を訪れます。",
+    "status": "new"
+  },
+  {
+    "en": "morning",
+    "ja": "朝",
+    "ipa": "/ˈmɔːrnɪŋ/",
+    "example": "I study in the morning.",
+    "exampleJa": "朝に勉強します。",
+    "status": "new"
+  },
+  {
+    "en": "afternoon",
+    "ja": "午後",
+    "ipa": "/ˌæftərˈnuːn/",
+    "example": "See you this afternoon.",
+    "exampleJa": "今日の午後に会いましょう。",
+    "status": "new"
+  },
+  {
+    "en": "evening",
+    "ja": "夕方・夜",
+    "ipa": "/ˈiːvnɪŋ/",
+    "example": "I cook in the evening.",
+    "exampleJa": "夕方に料理します。",
+    "status": "new"
+  },
+  {
+    "en": "night",
+    "ja": "夜",
+    "ipa": "/naɪt/",
+    "example": "I sleep well at night.",
+    "exampleJa": "夜はよく眠れます。",
+    "status": "new"
+  },
+  {
+    "en": "minute",
+    "ja": "分",
+    "ipa": "/ˈmɪnɪt/",
+    "example": "Give me a minute.",
+    "exampleJa": "ちょっと待って。",
+    "status": "new"
+  },
+  {
+    "en": "hour",
+    "ja": "時間（60分）",
+    "ipa": "/ˈaʊər/",
+    "example": "It takes one hour.",
+    "exampleJa": "1時間かかります。",
+    "status": "new"
+  },
+  {
+    "en": "place",
+    "ja": "場所",
+    "ipa": "/pleɪs/",
+    "example": "This is a nice place.",
+    "exampleJa": "ここは良い場所です。",
+    "status": "new"
+  },
+  {
+    "en": "home",
+    "ja": "家・自宅",
+    "ipa": "/hoʊm/",
+    "example": "I'm going home.",
+    "exampleJa": "家に帰ります。",
+    "status": "new"
+  },
+  {
+    "en": "house",
+    "ja": "家・建物",
+    "ipa": "/haʊs/",
+    "example": "We bought a house.",
+    "exampleJa": "私たちは家を買いました。",
+    "status": "new"
+  },
+  {
+    "en": "room",
+    "ja": "部屋",
+    "ipa": "/ruːm/",
+    "example": "Our room is clean.",
+    "exampleJa": "私たちの部屋はきれいです。",
+    "status": "new"
+  },
+  {
+    "en": "door",
+    "ja": "ドア",
+    "ipa": "/dɔːr/",
+    "example": "Open the door, please.",
+    "exampleJa": "ドアを開けてください。",
+    "status": "new"
+  },
+  {
+    "en": "window",
+    "ja": "窓",
+    "ipa": "/ˈwɪndoʊ/",
+    "example": "Close the window.",
+    "exampleJa": "窓を閉めて。",
+    "status": "new"
+  },
+  {
+    "en": "key",
+    "ja": "鍵",
+    "ipa": "/kiː/",
+    "example": "Where is my key?",
+    "exampleJa": "鍵はどこですか。",
+    "status": "new"
+  },
+  {
+    "en": "phone",
+    "ja": "電話・携帯電話",
+    "ipa": "/foʊn/",
+    "example": "My phone is new.",
+    "exampleJa": "私の携帯は新しいです。",
+    "status": "new"
+  },
+  {
+    "en": "computer",
+    "ja": "コンピューター",
+    "ipa": "/kəmˈpjuːtər/",
+    "example": "I use a computer at work.",
+    "exampleJa": "仕事でパソコンを使います。",
+    "status": "new"
+  },
+  {
+    "en": "bag",
+    "ja": "かばん",
+    "ipa": "/bæɡ/",
+    "example": "This is my bag.",
+    "exampleJa": "これは私のかばんです。",
+    "status": "new"
+  },
+  {
+    "en": "clothes",
+    "ja": "服",
+    "ipa": "/kloʊðz/",
+    "example": "I need new clothes.",
+    "exampleJa": "新しい服が必要です。",
+    "status": "new"
+  },
+  {
+    "en": "shoes",
+    "ja": "靴",
+    "ipa": "/ʃuːz/",
+    "example": "I like these shoes.",
+    "exampleJa": "この靴が好きです。",
+    "status": "new"
+  },
+  {
+    "en": "water",
+    "ja": "水",
+    "ipa": "/ˈwɔːtər/",
+    "example": "Can I have some water?",
+    "exampleJa": "水をいただけますか。",
+    "status": "new"
+  },
+  {
+    "en": "food",
+    "ja": "食べ物",
+    "ipa": "/fuːd/",
+    "example": "The food is delicious.",
+    "exampleJa": "料理がおいしいです。",
+    "status": "new"
+  },
+  {
+    "en": "breakfast",
+    "ja": "朝食",
+    "ipa": "/ˈbrekfəst/",
+    "example": "I eat breakfast at seven.",
+    "exampleJa": "7時に朝食を食べます。",
+    "status": "new"
+  },
+  {
+    "en": "lunch",
+    "ja": "昼食",
+    "ipa": "/lʌntʃ/",
+    "example": "Let's have lunch.",
+    "exampleJa": "お昼を食べましょう。",
+    "status": "new"
+  },
+  {
+    "en": "dinner",
+    "ja": "夕食",
+    "ipa": "/ˈdɪnər/",
+    "example": "What's for dinner?",
+    "exampleJa": "夕食は何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "coffee",
+    "ja": "コーヒー",
+    "ipa": "/ˈkɔːfi/",
+    "example": "I drink coffee every day.",
+    "exampleJa": "毎日コーヒーを飲みます。",
+    "status": "new"
+  },
+  {
+    "en": "tea",
+    "ja": "お茶",
+    "ipa": "/tiː/",
+    "example": "Would you like some tea?",
+    "exampleJa": "お茶はいかがですか。",
+    "status": "new"
+  },
+  {
+    "en": "restaurant",
+    "ja": "レストラン",
+    "ipa": "/ˈrestərɑːnt/",
+    "example": "This restaurant is popular.",
+    "exampleJa": "このレストランは人気です。",
+    "status": "new"
+  },
+  {
+    "en": "menu",
+    "ja": "メニュー",
+    "ipa": "/ˈmenjuː/",
+    "example": "Can I see the menu?",
+    "exampleJa": "メニューを見せてもらえますか。",
+    "status": "new"
+  },
+  {
+    "en": "order",
+    "ja": "注文する・注文",
+    "ipa": "/ˈɔːrdər/",
+    "example": "I'd like to order now.",
+    "exampleJa": "注文したいです。",
+    "status": "new"
+  },
+  {
+    "en": "bill",
+    "ja": "請求書・お会計",
+    "ipa": "/bɪl/",
+    "example": "Could we have the bill?",
+    "exampleJa": "お会計をお願いします。",
+    "status": "new"
+  },
+  {
+    "en": "price",
+    "ja": "値段",
+    "ipa": "/praɪs/",
+    "example": "What's the price?",
+    "exampleJa": "値段はいくらですか。",
+    "status": "new"
+  },
+  {
+    "en": "money",
+    "ja": "お金",
+    "ipa": "/ˈmʌni/",
+    "example": "I need to save money.",
+    "exampleJa": "お金を貯める必要があります。",
+    "status": "new"
+  },
+  {
+    "en": "cash",
+    "ja": "現金",
+    "ipa": "/kæʃ/",
+    "example": "Do you accept cash?",
+    "exampleJa": "現金は使えますか。",
+    "status": "new"
+  },
+  {
+    "en": "card",
+    "ja": "カード",
+    "ipa": "/kɑːrd/",
+    "example": "Can I pay by card?",
+    "exampleJa": "カードで払えますか。",
+    "status": "new"
+  },
+  {
+    "en": "shop",
+    "ja": "店",
+    "ipa": "/ʃɑːp/",
+    "example": "There's a shop nearby.",
+    "exampleJa": "近くに店があります。",
+    "status": "new"
+  },
+  {
+    "en": "store",
+    "ja": "店",
+    "ipa": "/stɔːr/",
+    "example": "The store closes at nine.",
+    "exampleJa": "その店は9時に閉まります。",
+    "status": "new"
+  },
+  {
+    "en": "station",
+    "ja": "駅",
+    "ipa": "/ˈsteɪʃən/",
+    "example": "Where is the station?",
+    "exampleJa": "駅はどこですか。",
+    "status": "new"
+  },
+  {
+    "en": "train",
+    "ja": "電車",
+    "ipa": "/treɪn/",
+    "example": "I take the train to work.",
+    "exampleJa": "電車で通勤します。",
+    "status": "new"
+  },
+  {
+    "en": "bus",
+    "ja": "バス",
+    "ipa": "/bʌs/",
+    "example": "Let's take the bus.",
+    "exampleJa": "バスに乗りましょう。",
+    "status": "new"
+  },
+  {
+    "en": "taxi",
+    "ja": "タクシー",
+    "ipa": "/ˈtæksi/",
+    "example": "Let's get a taxi.",
+    "exampleJa": "タクシーを呼びましょう。",
+    "status": "new"
+  },
+  {
+    "en": "car",
+    "ja": "車",
+    "ipa": "/kɑːr/",
+    "example": "My car is outside.",
+    "exampleJa": "車は外にあります。",
+    "status": "new"
+  },
+  {
+    "en": "airport",
+    "ja": "空港",
+    "ipa": "/ˈerpɔːrt/",
+    "example": "How do I get to the airport?",
+    "exampleJa": "空港へはどう行きますか。",
+    "status": "new"
+  },
+  {
+    "en": "flight",
+    "ja": "飛行便",
+    "ipa": "/flaɪt/",
+    "example": "My flight is delayed.",
+    "exampleJa": "私の便は遅れています。",
+    "status": "new"
+  },
+  {
+    "en": "ticket",
+    "ja": "切符・チケット",
+    "ipa": "/ˈtɪkɪt/",
+    "example": "I bought a ticket.",
+    "exampleJa": "チケットを買いました。",
+    "status": "new"
+  },
+  {
+    "en": "passport",
+    "ja": "パスポート",
+    "ipa": "/ˈpæspɔːrt/",
+    "example": "Here's my passport.",
+    "exampleJa": "これが私のパスポートです。",
+    "status": "new"
+  },
+  {
+    "en": "hotel",
+    "ja": "ホテル",
+    "ipa": "/hoʊˈtel/",
+    "example": "Our hotel is near the beach.",
+    "exampleJa": "ホテルはビーチの近くです。",
+    "status": "new"
+  },
+  {
+    "en": "reservation",
+    "ja": "予約",
+    "ipa": "/ˌrezərˈveɪʃən/",
+    "example": "I have a reservation.",
+    "exampleJa": "予約しています。",
+    "status": "new"
+  },
+  {
+    "en": "address",
+    "ja": "住所",
+    "ipa": "/əˈdres/",
+    "example": "What's your address?",
+    "exampleJa": "住所は何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "map",
+    "ja": "地図",
+    "ipa": "/mæp/",
+    "example": "Let's look at the map.",
+    "exampleJa": "地図を見ましょう。",
+    "status": "new"
+  },
+  {
+    "en": "street",
+    "ja": "通り",
+    "ipa": "/striːt/",
+    "example": "Turn right at this street.",
+    "exampleJa": "この通りで右に曲がって。",
+    "status": "new"
+  },
+  {
+    "en": "road",
+    "ja": "道路",
+    "ipa": "/roʊd/",
+    "example": "This road is busy.",
+    "exampleJa": "この道路は混んでいます。",
+    "status": "new"
+  },
+  {
+    "en": "city",
+    "ja": "都市",
+    "ipa": "/ˈsɪti/",
+    "example": "I love this city.",
+    "exampleJa": "この街が大好きです。",
+    "status": "new"
+  },
+  {
+    "en": "country",
+    "ja": "国",
+    "ipa": "/ˈkʌntri/",
+    "example": "Which country are you from?",
+    "exampleJa": "どこの国の出身ですか。",
+    "status": "new"
+  },
+  {
+    "en": "world",
+    "ja": "世界",
+    "ipa": "/wɝːld/",
+    "example": "I want to see the world.",
+    "exampleJa": "世界を見て回りたいです。",
+    "status": "new"
+  },
+  {
+    "en": "people",
+    "ja": "人々",
+    "ipa": "/ˈpiːpəl/",
+    "example": "People here are friendly.",
+    "exampleJa": "ここの人たちは親切です。",
+    "status": "new"
+  },
+  {
+    "en": "person",
+    "ja": "人",
+    "ipa": "/ˈpɝːsən/",
+    "example": "She's a kind person.",
+    "exampleJa": "彼女は親切な人です。",
+    "status": "new"
+  },
+  {
+    "en": "friend",
+    "ja": "友達",
+    "ipa": "/frend/",
+    "example": "He's my friend.",
+    "exampleJa": "彼は私の友達です。",
+    "status": "new"
+  },
+  {
+    "en": "child",
+    "ja": "子ども",
+    "ipa": "/tʃaɪld/",
+    "example": "My child is sleeping.",
+    "exampleJa": "子どもが寝ています。",
+    "status": "new"
+  },
+  {
+    "en": "son",
+    "ja": "息子",
+    "ipa": "/sʌn/",
+    "example": "My son is two months old.",
+    "exampleJa": "息子は生後2か月です。",
+    "status": "new"
+  },
+  {
+    "en": "daughter",
+    "ja": "娘",
+    "ipa": "/ˈdɔːtər/",
+    "example": "She has a daughter.",
+    "exampleJa": "彼女には娘がいます。",
+    "status": "new"
+  },
+  {
+    "en": "wife",
+    "ja": "妻",
+    "ipa": "/waɪf/",
+    "example": "My wife loves traveling.",
+    "exampleJa": "妻は旅行が好きです。",
+    "status": "new"
+  },
+  {
+    "en": "husband",
+    "ja": "夫",
+    "ipa": "/ˈhʌzbənd/",
+    "example": "Her husband is kind.",
+    "exampleJa": "彼女の夫は親切です。",
+    "status": "new"
+  },
+  {
+    "en": "parent",
+    "ja": "親",
+    "ipa": "/ˈperənt/",
+    "example": "I'm a new parent.",
+    "exampleJa": "私は新米の親です。",
+    "status": "new"
+  },
+  {
+    "en": "name",
+    "ja": "名前",
+    "ipa": "/neɪm/",
+    "example": "What's your name?",
+    "exampleJa": "名前は何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "age",
+    "ja": "年齢",
+    "ipa": "/eɪdʒ/",
+    "example": "What's your age?",
+    "exampleJa": "年齢はいくつですか。",
+    "status": "new"
+  },
+  {
+    "en": "job",
+    "ja": "仕事・職業",
+    "ipa": "/dʒɑːb/",
+    "example": "What's your job?",
+    "exampleJa": "お仕事は何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "company",
+    "ja": "会社",
+    "ipa": "/ˈkʌmpəni/",
+    "example": "I work for a railway company.",
+    "exampleJa": "鉄道会社で働いています。",
+    "status": "new"
+  },
+  {
+    "en": "office",
+    "ja": "事務所・オフィス",
+    "ipa": "/ˈɔːfɪs/",
+    "example": "My office is downtown.",
+    "exampleJa": "職場は街の中心部にあります。",
+    "status": "new"
+  },
+  {
+    "en": "school",
+    "ja": "学校",
+    "ipa": "/skuːl/",
+    "example": "My school is nearby.",
+    "exampleJa": "学校は近くにあります。",
+    "status": "new"
+  },
+  {
+    "en": "student",
+    "ja": "学生",
+    "ipa": "/ˈstuːdənt/",
+    "example": "I'm an English student.",
+    "exampleJa": "英語を学ぶ学生です。",
+    "status": "new"
+  },
+  {
+    "en": "teacher",
+    "ja": "先生",
+    "ipa": "/ˈtiːtʃər/",
+    "example": "My teacher is helpful.",
+    "exampleJa": "先生は親切です。",
+    "status": "new"
+  },
+  {
+    "en": "language",
+    "ja": "言語",
+    "ipa": "/ˈlæŋɡwɪdʒ/",
+    "example": "I want to learn another language.",
+    "exampleJa": "別の言語を学びたいです。",
+    "status": "new"
+  },
+  {
+    "en": "English",
+    "ja": "英語",
+    "ipa": "/ˈɪŋɡlɪʃ/",
+    "example": "I speak a little English.",
+    "exampleJa": "英語を少し話します。",
+    "status": "new"
+  },
+  {
+    "en": "question",
+    "ja": "質問",
+    "ipa": "/ˈkwestʃən/",
+    "example": "I have a question.",
+    "exampleJa": "質問があります。",
+    "status": "new"
+  },
+  {
+    "en": "problem",
+    "ja": "問題",
+    "ipa": "/ˈprɑːbləm/",
+    "example": "We have a problem.",
+    "exampleJa": "問題があります。",
+    "status": "new"
+  },
+  {
+    "en": "idea",
+    "ja": "考え・アイデア",
+    "ipa": "/aɪˈdiːə/",
+    "example": "That's a good idea.",
+    "exampleJa": "それは良い考えです。",
+    "status": "new"
+  },
+  {
+    "en": "reason",
+    "ja": "理由",
+    "ipa": "/ˈriːzən/",
+    "example": "What's the reason?",
+    "exampleJa": "理由は何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "thing",
+    "ja": "物・こと",
+    "ipa": "/θɪŋ/",
+    "example": "What's that thing?",
+    "exampleJa": "あれは何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "way",
+    "ja": "方法・道",
+    "ipa": "/weɪ/",
+    "example": "Is there another way?",
+    "exampleJa": "ほかに方法はありますか。",
+    "status": "new"
+  },
+  {
+    "en": "part",
+    "ja": "部分",
+    "ipa": "/pɑːrt/",
+    "example": "This is the best part.",
+    "exampleJa": "ここが一番良い部分です。",
+    "status": "new"
+  },
+  {
+    "en": "kind",
+    "ja": "種類・親切な",
+    "ipa": "/kaɪnd/",
+    "example": "What kind of music do you like?",
+    "exampleJa": "どんな音楽が好きですか。",
+    "status": "new"
+  },
+  {
+    "en": "life",
+    "ja": "人生・生活",
+    "ipa": "/laɪf/",
+    "example": "I enjoy my life.",
+    "exampleJa": "人生を楽しんでいます。",
+    "status": "new"
+  },
+  {
+    "en": "health",
+    "ja": "健康",
+    "ipa": "/helθ/",
+    "example": "Health is important.",
+    "exampleJa": "健康は大切です。",
+    "status": "new"
+  },
+  {
+    "en": "body",
+    "ja": "体",
+    "ipa": "/ˈbɑːdi/",
+    "example": "I want a strong body.",
+    "exampleJa": "強い体が欲しいです。",
+    "status": "new"
+  },
+  {
+    "en": "exercise",
+    "ja": "運動",
+    "ipa": "/ˈeksərsaɪz/",
+    "example": "I exercise every day.",
+    "exampleJa": "毎日運動します。",
+    "status": "new"
+  },
+  {
+    "en": "sport",
+    "ja": "スポーツ",
+    "ipa": "/spɔːrt/",
+    "example": "What's your favorite sport?",
+    "exampleJa": "好きなスポーツは何ですか。",
+    "status": "new"
+  },
+  {
+    "en": "soccer",
+    "ja": "サッカー",
+    "ipa": "/ˈsɑːkər/",
+    "example": "I love watching soccer.",
+    "exampleJa": "サッカー観戦が大好きです。",
+    "status": "new"
+  },
+  {
+    "en": "game",
+    "ja": "試合・ゲーム",
+    "ipa": "/ɡeɪm/",
+    "example": "The game starts at eight.",
+    "exampleJa": "試合は8時に始まります。",
+    "status": "new"
+  },
+  {
+    "en": "team",
+    "ja": "チーム",
+    "ipa": "/tiːm/",
+    "example": "Which team do you support?",
+    "exampleJa": "どのチームを応援していますか。",
+    "status": "new"
+  },
+  {
+    "en": "player",
+    "ja": "選手",
+    "ipa": "/ˈpleɪər/",
+    "example": "He's a great player.",
+    "exampleJa": "彼はすごい選手です。",
+    "status": "new"
+  },
+  {
+    "en": "music",
+    "ja": "音楽",
+    "ipa": "/ˈmjuːzɪk/",
+    "example": "I listen to music.",
+    "exampleJa": "音楽を聴きます。",
+    "status": "new"
+  },
+  {
+    "en": "movie",
+    "ja": "映画",
+    "ipa": "/ˈmuːvi/",
+    "example": "Let's watch a movie.",
+    "exampleJa": "映画を見ましょう。",
+    "status": "new"
+  },
+  {
+    "en": "book",
+    "ja": "本",
+    "ipa": "/bʊk/",
+    "example": "I'm reading a book.",
+    "exampleJa": "本を読んでいます。",
+    "status": "new"
+  },
+  {
+    "en": "photo",
+    "ja": "写真",
+    "ipa": "/ˈfoʊtoʊ/",
+    "example": "Can you take a photo?",
+    "exampleJa": "写真を撮ってもらえますか。",
+    "status": "new"
+  },
+  {
+    "en": "weather",
+    "ja": "天気",
+    "ipa": "/ˈweðər/",
+    "example": "How's the weather?",
+    "exampleJa": "天気はどうですか。",
+    "status": "new"
+  },
+  {
+    "en": "beautiful",
+    "ja": "美しい",
+    "ipa": "/ˈbjuːtɪfəl/",
+    "example": "What a beautiful view!",
+    "exampleJa": "なんて美しい景色でしょう。",
+    "status": "new"
   }
 ]
