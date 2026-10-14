@@ -12,3 +12,8 @@
 既存の学習記録は `lock-in-english-basic-v1` のブラウザ保存キーを継続使用。通常、同じURL・同じブラウザでは引き継がれます。
 
 **注意**: GitHubにアップロードしたファイルが正しくても、Pagesの公開ブランチやフォルダが違う場合は更新されません。Settings > Pages の公開元を確認してください。
+
+
+700語版：data/words.jsonに700語収録。既存500語は保持。進捗localStorageキーも維持。GitHubのdata/words.jsonを上書きし、index.htmlとapp.jsも更新してください。
+
+700語版発音記号追加：501〜700語のIPA（米語寄り）を収録。
