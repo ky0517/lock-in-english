@@ -3998,5 +3998,1605 @@
     "exampleJa": "緊急事態です。",
     "status": "new",
     "ipa": "/ɪmˈɝdʒənsi/"
+  },
+  {
+    "en": "luggage",
+    "ja": "荷物",
+    "example": "My luggage is heavy.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈlʌɡədʒ/"
+  },
+  {
+    "en": "suitcase",
+    "ja": "スーツケース",
+    "example": "I packed my suitcase.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsuˌtkeɪs/"
+  },
+  {
+    "en": "booking",
+    "ja": "予約",
+    "example": "I confirmed my booking.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbʊkɪŋ/"
+  },
+  {
+    "en": "reception",
+    "ja": "受付",
+    "example": "Please ask at reception.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈsɛpʃən/"
+  },
+  {
+    "en": "receptionist",
+    "ja": "受付係",
+    "example": "The receptionist was helpful.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈsɛpʃənɪst/"
+  },
+  {
+    "en": "check-in",
+    "ja": "チェックイン",
+    "example": "Check-in starts at three.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtʃɛk ɪn/"
+  },
+  {
+    "en": "checkout",
+    "ja": "チェックアウト",
+    "example": "Checkout is at eleven.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtʃɛˌkaʊt/"
+  },
+  {
+    "en": "destination",
+    "ja": "目的地",
+    "example": "Tokyo is our destination.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌdɛstəˈneɪʃən/"
+  },
+  {
+    "en": "journey",
+    "ja": "旅",
+    "example": "It was a long journey.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdʒɝni/"
+  },
+  {
+    "en": "route",
+    "ja": "経路",
+    "example": "This is the fastest route.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈrut/"
+  },
+  {
+    "en": "schedule",
+    "ja": "予定表",
+    "example": "Please check the schedule.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈskɛdʒʊl/"
+  },
+  {
+    "en": "delay",
+    "ja": "遅れ",
+    "example": "There is a delay today.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈleɪ/"
+  },
+  {
+    "en": "platform",
+    "ja": "ホーム",
+    "example": "The train leaves from platform two.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈplæˌtfɔrm/"
+  },
+  {
+    "en": "subway",
+    "ja": "地下鉄",
+    "example": "Let's take the subway.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsʌˌbweɪ/"
+  },
+  {
+    "en": "railway",
+    "ja": "鉄道",
+    "example": "The railway connects two cities.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈreɪˌlweɪ/"
+  },
+  {
+    "en": "transfer",
+    "ja": "乗り換え",
+    "example": "We need to transfer here.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/træˈnsfɝ/"
+  },
+  {
+    "en": "direction",
+    "ja": "方向",
+    "example": "Which direction is north?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɚˈɛkʃən/"
+  },
+  {
+    "en": "location",
+    "ja": "場所",
+    "example": "Send me your location.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/loʊˈkeɪʃən/"
+  },
+  {
+    "en": "distance",
+    "ja": "距離",
+    "example": "The distance is short.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdɪstəns/"
+  },
+  {
+    "en": "transportation",
+    "ja": "交通手段",
+    "example": "Public transportation is convenient.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌtrænspɚˈteɪʃən/"
+  },
+  {
+    "en": "vehicle",
+    "ja": "乗り物",
+    "example": "This vehicle is electric.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈvihɪkəl/"
+  },
+  {
+    "en": "passenger",
+    "ja": "乗客",
+    "example": "Every passenger needs a ticket.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpæsəndʒɚ/"
+  },
+  {
+    "en": "driver",
+    "ja": "運転手",
+    "example": "The driver was friendly.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdraɪvɚ/"
+  },
+  {
+    "en": "license",
+    "ja": "免許証",
+    "example": "I have a driver's license.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈlaɪsəns/"
+  },
+  {
+    "en": "parking",
+    "ja": "駐車",
+    "example": "Parking is free here.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpɑrkɪŋ/"
+  },
+  {
+    "en": "gasoline",
+    "ja": "ガソリン",
+    "example": "We need more gasoline.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɡæsəˌlin/"
+  },
+  {
+    "en": "fuel",
+    "ja": "燃料",
+    "example": "This car uses less fuel.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfjuəl/"
+  },
+  {
+    "en": "engine",
+    "ja": "エンジン",
+    "example": "The engine is quiet.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɛndʒən/"
+  },
+  {
+    "en": "wheel",
+    "ja": "車輪",
+    "example": "The wheel is damaged.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈwil/"
+  },
+  {
+    "en": "helmet",
+    "ja": "ヘルメット",
+    "example": "Wear your helmet.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈhɛlmət/"
+  },
+  {
+    "en": "bicycle",
+    "ja": "自転車",
+    "example": "I ride my bicycle to work.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbaɪsɪkəl/"
+  },
+  {
+    "en": "sidewalk",
+    "ja": "歩道",
+    "example": "Stay on the sidewalk.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsaɪˌdwɔk/"
+  },
+  {
+    "en": "crosswalk",
+    "ja": "横断歩道",
+    "example": "Use the crosswalk.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkrɑˌswɑk/"
+  },
+  {
+    "en": "intersection",
+    "ja": "交差点",
+    "example": "Turn right at the intersection.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪntɚˈsɛkʃən/"
+  },
+  {
+    "en": "highway",
+    "ja": "高速道路",
+    "example": "We took the highway.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈhaɪˌweɪ/"
+  },
+  {
+    "en": "traffic jam",
+    "ja": "交通渋滞",
+    "example": "We got stuck in a traffic jam.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtræfɪk dʒæm/"
+  },
+  {
+    "en": "speed",
+    "ja": "速度",
+    "example": "Reduce your speed.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈspid/"
+  },
+  {
+    "en": "accident",
+    "ja": "事故",
+    "example": "There was an accident.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈæksədənt/"
+  },
+  {
+    "en": "insurance",
+    "ja": "保険",
+    "example": "Do you have travel insurance?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈnʃʊrəns/"
+  },
+  {
+    "en": "cost",
+    "ja": "費用",
+    "example": "The cost is too high.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkɑst/"
+  },
+  {
+    "en": "budget",
+    "ja": "予算",
+    "example": "We have a small budget.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbʌdʒɪt/"
+  },
+  {
+    "en": "receipt",
+    "ja": "領収書",
+    "example": "Please keep the receipt.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈsit/"
+  },
+  {
+    "en": "coin",
+    "ja": "硬貨",
+    "example": "I found a coin.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkɔɪn/"
+  },
+  {
+    "en": "wallet",
+    "ja": "財布",
+    "example": "I lost my wallet.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈwɔlət/"
+  },
+  {
+    "en": "credit",
+    "ja": "信用・クレジット",
+    "example": "Can I pay by credit card?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkrɛdət/"
+  },
+  {
+    "en": "discount",
+    "ja": "割引",
+    "example": "Is there a discount?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈskaʊnt/"
+  },
+  {
+    "en": "sale",
+    "ja": "セール",
+    "example": "These shoes are on sale.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈseɪl/"
+  },
+  {
+    "en": "refund",
+    "ja": "返金",
+    "example": "I requested a refund.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈfʌnd/"
+  },
+  {
+    "en": "exchange",
+    "ja": "交換",
+    "example": "Can I exchange this shirt?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ɪˈkstʃeɪndʒ/"
+  },
+  {
+    "en": "customer",
+    "ja": "客",
+    "example": "The customer asked a question.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkʌstəmɚ/"
+  },
+  {
+    "en": "service",
+    "ja": "サービス",
+    "example": "The service was excellent.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsɝvəs/"
+  },
+  {
+    "en": "quality",
+    "ja": "品質",
+    "example": "The quality is good.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkwɑləti/"
+  },
+  {
+    "en": "brand",
+    "ja": "ブランド",
+    "example": "I like this brand.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbrænd/"
+  },
+  {
+    "en": "product",
+    "ja": "商品",
+    "example": "This product is popular.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈprɑdəkt/"
+  },
+  {
+    "en": "item",
+    "ja": "品物",
+    "example": "This item is on sale.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈaɪtəm/"
+  },
+  {
+    "en": "size",
+    "ja": "サイズ",
+    "example": "What size do you need?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsaɪz/"
+  },
+  {
+    "en": "color",
+    "ja": "色",
+    "example": "I like this color.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkʌlɚ/"
+  },
+  {
+    "en": "shape",
+    "ja": "形",
+    "example": "The table has a round shape.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈʃeɪp/"
+  },
+  {
+    "en": "material",
+    "ja": "素材",
+    "example": "What material is this made of?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/məˈtɪriəl/"
+  },
+  {
+    "en": "cotton",
+    "ja": "綿",
+    "example": "This shirt is made of cotton.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkɑtən/"
+  },
+  {
+    "en": "leather",
+    "ja": "革",
+    "example": "These shoes are made of leather.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈlɛðɚ/"
+  },
+  {
+    "en": "wood",
+    "ja": "木材",
+    "example": "The chair is made of wood.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈwʊd/"
+  },
+  {
+    "en": "metal",
+    "ja": "金属",
+    "example": "This box is made of metal.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmɛtəl/"
+  },
+  {
+    "en": "plastic",
+    "ja": "プラスチック",
+    "example": "Try to use less plastic.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈplæstɪk/"
+  },
+  {
+    "en": "glass",
+    "ja": "ガラス・コップ",
+    "example": "The glass is empty.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɡlæs/"
+  },
+  {
+    "en": "bottle",
+    "ja": "ボトル",
+    "example": "Please fill the bottle.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbɑtəl/"
+  },
+  {
+    "en": "cup",
+    "ja": "カップ",
+    "example": "I need a cup of tea.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkʌp/"
+  },
+  {
+    "en": "plate",
+    "ja": "皿",
+    "example": "Put it on the plate.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpleɪt/"
+  },
+  {
+    "en": "bowl",
+    "ja": "ボウル",
+    "example": "I ate a bowl of rice.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈboʊl/"
+  },
+  {
+    "en": "fork",
+    "ja": "フォーク",
+    "example": "Can I have a fork?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfɔrk/"
+  },
+  {
+    "en": "knife",
+    "ja": "ナイフ",
+    "example": "Be careful with that knife.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈnaɪf/"
+  },
+  {
+    "en": "spoon",
+    "ja": "スプーン",
+    "example": "Use a small spoon.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈspun/"
+  },
+  {
+    "en": "napkin",
+    "ja": "ナプキン",
+    "example": "Could I have a napkin?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈnæpkɪn/"
+  },
+  {
+    "en": "meal",
+    "ja": "食事",
+    "example": "We enjoyed the meal.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmil/"
+  },
+  {
+    "en": "snack",
+    "ja": "軽食",
+    "example": "I brought a snack.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsnæk/"
+  },
+  {
+    "en": "appetizer",
+    "ja": "前菜",
+    "example": "We shared an appetizer.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈæpəˌtaɪzɚ/"
+  },
+  {
+    "en": "dessert",
+    "ja": "デザート",
+    "example": "I'd like some dessert.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈzɝt/"
+  },
+  {
+    "en": "ingredient",
+    "ja": "材料",
+    "example": "This dish has five ingredients.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈnɡridiənt/"
+  },
+  {
+    "en": "recipe",
+    "ja": "レシピ",
+    "example": "I followed the recipe.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈrɛsəpi/"
+  },
+  {
+    "en": "flavor",
+    "ja": "風味",
+    "example": "I love this flavor.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfleɪvɚ/"
+  },
+  {
+    "en": "taste",
+    "ja": "味・味わう",
+    "example": "This soup tastes great.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈteɪst/"
+  },
+  {
+    "en": "spicy",
+    "ja": "辛い",
+    "example": "This curry is spicy.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈspaɪsi/"
+  },
+  {
+    "en": "sweet",
+    "ja": "甘い",
+    "example": "This cake is too sweet.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈswit/"
+  },
+  {
+    "en": "salty",
+    "ja": "塩辛い",
+    "example": "The soup is salty.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsɔlti/"
+  },
+  {
+    "en": "sour",
+    "ja": "酸っぱい",
+    "example": "This lemon is sour.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsaʊɚ/"
+  },
+  {
+    "en": "bitter",
+    "ja": "苦い",
+    "example": "The coffee tastes bitter.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbɪtɚ/"
+  },
+  {
+    "en": "fresh",
+    "ja": "新鮮な",
+    "example": "The bread is fresh.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfrɛʃ/"
+  },
+  {
+    "en": "frozen",
+    "ja": "冷凍の",
+    "example": "I bought frozen vegetables.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfroʊzən/"
+  },
+  {
+    "en": "boil",
+    "ja": "ゆでる",
+    "example": "Boil the water first.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbɔɪl/"
+  },
+  {
+    "en": "fry",
+    "ja": "揚げる・炒める",
+    "example": "Fry the eggs gently.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfraɪ/"
+  },
+  {
+    "en": "bake",
+    "ja": "焼く",
+    "example": "Let's bake some bread.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbeɪk/"
+  },
+  {
+    "en": "grill",
+    "ja": "焼く",
+    "example": "We grill fish for dinner.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɡrɪl/"
+  },
+  {
+    "en": "steam",
+    "ja": "蒸す",
+    "example": "Steam the vegetables.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈstim/"
+  },
+  {
+    "en": "chop",
+    "ja": "刻む",
+    "example": "Chop the onions finely.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtʃɑp/"
+  },
+  {
+    "en": "slice",
+    "ja": "薄切りにする",
+    "example": "Slice the bread.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈslaɪs/"
+  },
+  {
+    "en": "mix",
+    "ja": "混ぜる",
+    "example": "Mix the ingredients together.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmɪks/"
+  },
+  {
+    "en": "stir",
+    "ja": "かき混ぜる",
+    "example": "Stir the soup slowly.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈstɝ/"
+  },
+  {
+    "en": "pour",
+    "ja": "注ぐ",
+    "example": "Pour some water into the glass.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpɔr/"
+  },
+  {
+    "en": "serve",
+    "ja": "提供する",
+    "example": "They serve breakfast at eight.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsɝv/"
+  },
+  {
+    "en": "repeat",
+    "ja": "繰り返す",
+    "example": "Could you repeat that?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈpit/"
+  },
+  {
+    "en": "develop",
+    "ja": "発達させる",
+    "example": "I want to develop new skills.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈvɛləp/"
+  },
+  {
+    "en": "create",
+    "ja": "作る",
+    "example": "Let's create something new.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kriˈeɪt/"
+  },
+  {
+    "en": "build",
+    "ja": "建てる・築く",
+    "example": "We want to build a house.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbɪld/"
+  },
+  {
+    "en": "design",
+    "ja": "設計する",
+    "example": "She designs websites.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈzaɪn/"
+  },
+  {
+    "en": "organize",
+    "ja": "整理する",
+    "example": "I organize my desk every morning.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɔrɡəˌnaɪz/"
+  },
+  {
+    "en": "manage",
+    "ja": "管理する",
+    "example": "I manage my time carefully.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmænədʒ/"
+  },
+  {
+    "en": "control",
+    "ja": "制御する",
+    "example": "I can't control the weather.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈntroʊl/"
+  },
+  {
+    "en": "lead",
+    "ja": "率いる",
+    "example": "She leads the team.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈlɛd/"
+  },
+  {
+    "en": "follow",
+    "ja": "ついていく",
+    "example": "Please follow me.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfɑloʊ/"
+  },
+  {
+    "en": "join",
+    "ja": "参加する",
+    "example": "Can I join you?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdʒɔɪn/"
+  },
+  {
+    "en": "attend",
+    "ja": "出席する",
+    "example": "I'll attend the meeting.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈtɛnd/"
+  },
+  {
+    "en": "participate",
+    "ja": "参加する",
+    "example": "Everyone can participate.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/pɑˈrtɪsəˌpeɪt/"
+  },
+  {
+    "en": "contribute",
+    "ja": "貢献する",
+    "example": "I want to contribute to the team.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈntrɪbjut/"
+  },
+  {
+    "en": "cooperate",
+    "ja": "協力する",
+    "example": "We need to cooperate.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/koʊˈɑpɚˌeɪt/"
+  },
+  {
+    "en": "communicate",
+    "ja": "意思疎通する",
+    "example": "We communicate every day.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈmjunəˌkeɪt/"
+  },
+  {
+    "en": "discuss",
+    "ja": "話し合う",
+    "example": "Let's discuss the idea.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈskʌs/"
+  },
+  {
+    "en": "describe",
+    "ja": "描写する",
+    "example": "Describe what you saw.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈskraɪb/"
+  },
+  {
+    "en": "mention",
+    "ja": "言及する",
+    "example": "She mentioned your name.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmɛnʃən/"
+  },
+  {
+    "en": "suggest",
+    "ja": "提案する",
+    "example": "I suggest taking a break.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/səˈdʒɛst/"
+  },
+  {
+    "en": "recommend",
+    "ja": "勧める",
+    "example": "What do you recommend?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌrɛkəˈmɛnd/"
+  },
+  {
+    "en": "advise",
+    "ja": "助言する",
+    "example": "My coach advised me to rest.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/æˈdvaɪz/"
+  },
+  {
+    "en": "disagree",
+    "ja": "反対する",
+    "example": "I disagree with that idea.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪsəˈɡri/"
+  },
+  {
+    "en": "argue",
+    "ja": "議論する",
+    "example": "They argue about money.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɑrɡju/"
+  },
+  {
+    "en": "complain",
+    "ja": "不満を言う",
+    "example": "I don't want to complain.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈmpleɪn/"
+  },
+  {
+    "en": "request",
+    "ja": "依頼する",
+    "example": "I'd like to request a refund.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈkwɛst/"
+  },
+  {
+    "en": "allow",
+    "ja": "許可する",
+    "example": "They allow pets here.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈlaʊ/"
+  },
+  {
+    "en": "permit",
+    "ja": "許可する",
+    "example": "They don't permit smoking.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/pɚˈmɪt/"
+  },
+  {
+    "en": "refuse",
+    "ja": "断る",
+    "example": "He refused the offer.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rəˈfjuz/"
+  },
+  {
+    "en": "accept",
+    "ja": "受け入れる",
+    "example": "I accept your invitation.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/æˈksɛpt/"
+  },
+  {
+    "en": "reject",
+    "ja": "拒否する",
+    "example": "She rejected the idea.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈdʒɛkt/"
+  },
+  {
+    "en": "offer",
+    "ja": "申し出る",
+    "example": "Can I offer you some tea?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɔfɚ/"
+  },
+  {
+    "en": "provide",
+    "ja": "提供する",
+    "example": "We provide free Wi-Fi.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/prəˈvaɪd/"
+  },
+  {
+    "en": "receive",
+    "ja": "受け取る",
+    "example": "Did you receive my message?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rəˈsiv/"
+  },
+  {
+    "en": "deliver",
+    "ja": "配達する",
+    "example": "They deliver food here.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈlɪvɚ/"
+  },
+  {
+    "en": "return",
+    "ja": "戻る・返す",
+    "example": "I'll return tomorrow.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rɪˈtɝn/"
+  },
+  {
+    "en": "borrow",
+    "ja": "借りる",
+    "example": "Can I borrow your pen?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbɑˌroʊ/"
+  },
+  {
+    "en": "lend",
+    "ja": "貸す",
+    "example": "Could you lend me a hand?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈlɛnd/"
+  },
+  {
+    "en": "rent",
+    "ja": "借りる",
+    "example": "We rent an apartment.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈrɛnt/"
+  },
+  {
+    "en": "own",
+    "ja": "所有する",
+    "example": "I own a small car.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈoʊn/"
+  },
+  {
+    "en": "belong",
+    "ja": "所属する",
+    "example": "This bag belongs to me.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/bɪˈlɔŋ/"
+  },
+  {
+    "en": "include",
+    "ja": "含む",
+    "example": "The price includes breakfast.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈnklud/"
+  },
+  {
+    "en": "exclude",
+    "ja": "除く",
+    "example": "The price excludes tax.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ɪˈksklud/"
+  },
+  {
+    "en": "contain",
+    "ja": "含む",
+    "example": "This drink contains sugar.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈnteɪn/"
+  },
+  {
+    "en": "cover",
+    "ja": "覆う・対象とする",
+    "example": "Does insurance cover this?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkʌvɚ/"
+  },
+  {
+    "en": "protect",
+    "ja": "守る",
+    "example": "Wear a hat to protect your skin.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/prəˈtɛkt/"
+  },
+  {
+    "en": "prevent",
+    "ja": "防ぐ",
+    "example": "Exercise helps prevent illness.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/prɪˈvɛnt/"
+  },
+  {
+    "en": "avoid",
+    "ja": "避ける",
+    "example": "Try to avoid traffic.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈvɔɪd/"
+  },
+  {
+    "en": "reduce",
+    "ja": "減らす",
+    "example": "I want to reduce waste.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/rəˈdus/"
+  },
+  {
+    "en": "increase",
+    "ja": "増やす",
+    "example": "We need to increase sales.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈnkris/"
+  },
+  {
+    "en": "raise",
+    "ja": "上げる",
+    "example": "Please raise your hand.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈreɪz/"
+  },
+  {
+    "en": "lower",
+    "ja": "下げる",
+    "example": "Please lower the volume.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈloʊɚ/"
+  },
+  {
+    "en": "compare",
+    "ja": "比較する",
+    "example": "Let's compare the prices.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈmpɛr/"
+  },
+  {
+    "en": "measure",
+    "ja": "測る",
+    "example": "Measure the distance.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmɛʒɚ/"
+  },
+  {
+    "en": "calculate",
+    "ja": "計算する",
+    "example": "Can you calculate the total?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkælkjəˌleɪt/"
+  },
+  {
+    "en": "estimate",
+    "ja": "見積もる",
+    "example": "Can you estimate the cost?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɛstəmət/"
+  },
+  {
+    "en": "confirm",
+    "ja": "確認する",
+    "example": "Please confirm the date.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈnfɝm/"
+  },
+  {
+    "en": "verify",
+    "ja": "確かめる",
+    "example": "We need to verify the details.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈvɛrəˌfaɪ/"
+  },
+  {
+    "en": "notice",
+    "ja": "気づく",
+    "example": "Did you notice the change?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈnoʊtəs/"
+  },
+  {
+    "en": "realize",
+    "ja": "気づく",
+    "example": "I realized my mistake.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈriəˌlaɪz/"
+  },
+  {
+    "en": "recognize",
+    "ja": "見分ける",
+    "example": "I recognize his voice.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈrɛkəˌɡnaɪz/"
+  },
+  {
+    "en": "imagine",
+    "ja": "想像する",
+    "example": "Imagine living abroad.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈmædʒən/"
+  },
+  {
+    "en": "consider",
+    "ja": "検討する",
+    "example": "I'm considering a new job.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈnsɪdɚ/"
+  },
+  {
+    "en": "expect",
+    "ja": "予想する",
+    "example": "I expect good results.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ɪˈkspɛkt/"
+  },
+  {
+    "en": "wish",
+    "ja": "願う",
+    "example": "I wish you good luck.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈwɪʃ/"
+  },
+  {
+    "en": "depend",
+    "ja": "左右される",
+    "example": "It depends on the weather.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈpɛnd/"
+  },
+  {
+    "en": "matter",
+    "ja": "重要である",
+    "example": "Your opinion matters.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmætɚ/"
+  },
+  {
+    "en": "mean",
+    "ja": "意味する",
+    "example": "What does this word mean?",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmin/"
+  },
+  {
+    "en": "represent",
+    "ja": "表す",
+    "example": "This symbol represents peace.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌrɛprɪˈzɛnt/"
+  },
+  {
+    "en": "require",
+    "ja": "必要とする",
+    "example": "This job requires patience.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌriˈkwaɪɚ/"
+  },
+  {
+    "en": "deserve",
+    "ja": "値する",
+    "example": "You deserve a break.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/dɪˈzɝv/"
+  },
+  {
+    "en": "afford",
+    "ja": "余裕がある",
+    "example": "We can't afford a new car.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈfɔrd/"
+  },
+  {
+    "en": "earn",
+    "ja": "稼ぐ",
+    "example": "I want to earn more money.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɝn/"
+  },
+  {
+    "en": "invest",
+    "ja": "投資する",
+    "example": "I invest a little every month.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌɪˈnvɛst/"
+  },
+  {
+    "en": "profit",
+    "ja": "利益",
+    "example": "The company made a profit.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈprɑfət/"
+  },
+  {
+    "en": "income",
+    "ja": "収入",
+    "example": "My income changes each year.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɪˌnkʌm/"
+  },
+  {
+    "en": "salary",
+    "ja": "給料",
+    "example": "He receives a monthly salary.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈsælɚi/"
+  },
+  {
+    "en": "tax",
+    "ja": "税金",
+    "example": "We pay income tax.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtæks/"
+  },
+  {
+    "en": "debt",
+    "ja": "借金",
+    "example": "I want to pay off my debt.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdɛt/"
+  },
+  {
+    "en": "loan",
+    "ja": "ローン",
+    "example": "We applied for a loan.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈloʊn/"
+  },
+  {
+    "en": "interest",
+    "ja": "利息・関心",
+    "example": "The loan has a low interest rate.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɪntrəst/"
+  },
+  {
+    "en": "account",
+    "ja": "口座・アカウント",
+    "example": "I opened a bank account.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈkaʊnt/"
+  },
+  {
+    "en": "balance",
+    "ja": "残高・バランス",
+    "example": "Check your account balance.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈbæləns/"
+  },
+  {
+    "en": "payment",
+    "ja": "支払い",
+    "example": "The payment is due tomorrow.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpeɪmənt/"
+  },
+  {
+    "en": "fee",
+    "ja": "料金",
+    "example": "There is an extra fee.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈfi/"
+  },
+  {
+    "en": "charge",
+    "ja": "料金を請求する",
+    "example": "They charge for parking.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtʃɑrdʒ/"
+  },
+  {
+    "en": "contract",
+    "ja": "契約",
+    "example": "Please read the contract.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈkɑˌntrækt/"
+  },
+  {
+    "en": "agreement",
+    "ja": "合意",
+    "example": "We reached an agreement.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈɡrimənt/"
+  },
+  {
+    "en": "condition",
+    "ja": "条件・状態",
+    "example": "The car is in good condition.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/kəˈndɪʃən/"
+  },
+  {
+    "en": "rule",
+    "ja": "規則",
+    "example": "Follow the rules.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈrul/"
+  },
+  {
+    "en": "policy",
+    "ja": "方針",
+    "example": "Please read the company policy.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈpɑləsi/"
+  },
+  {
+    "en": "responsibility",
+    "ja": "責任",
+    "example": "This is my responsibility.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/riˌspɑnsəˈbɪləti/"
+  },
+  {
+    "en": "duty",
+    "ja": "義務",
+    "example": "It's my duty to help.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈduti/"
+  },
+  {
+    "en": "task",
+    "ja": "作業",
+    "example": "I finished my first task.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈtæsk/"
+  },
+  {
+    "en": "project",
+    "ja": "プロジェクト",
+    "example": "Our project starts next week.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "en": "deadline",
+    "ja": "締め切り",
+    "example": "The deadline is Friday.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈdɛˌdlaɪn/"
+  },
+  {
+    "en": "priority",
+    "ja": "優先事項",
+    "example": "Family is my top priority.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/praɪˈɔrəti/"
+  },
+  {
+    "en": "meeting",
+    "ja": "会議",
+    "example": "We have a meeting at ten.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈmitɪŋ/"
+  },
+  {
+    "en": "appointment",
+    "ja": "予約・約束",
+    "example": "I have a doctor's appointment.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/əˈpɔɪntmənt/"
+  },
+  {
+    "en": "interview",
+    "ja": "面接",
+    "example": "My interview is tomorrow.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˈɪntɚˌvju/"
+  },
+  {
+    "en": "application",
+    "ja": "申請・応募",
+    "example": "I submitted my application.",
+    "exampleJa": "",
+    "status": "new",
+    "ipa": "/ˌæpləˈkeɪʃən/"
   }
 ]
