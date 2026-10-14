@@ -5598,5 +5598,2405 @@
     "exampleJa": "",
     "status": "new",
     "ipa": "/ˌæpləˈkeɪʃən/"
+  },
+  {
+    "en": "actually",
+    "ja": "実際には",
+    "ipa": "/ˈæktʃˌuəli/",
+    "example": "Actually, I agree with you.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "basically",
+    "ja": "基本的に",
+    "ipa": "/bˈeɪsɪkli/",
+    "example": "Basically, we need more time.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "perhaps",
+    "ja": "たぶん",
+    "ipa": "/pɚhˈæps/",
+    "example": "Perhaps we can try again.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "fortunately",
+    "ja": "幸運にも",
+    "ipa": "/fˈɔɹtʃənətli/",
+    "example": "Fortunately, nobody was hurt.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "unfortunately",
+    "ja": "残念ながら",
+    "ipa": "/ənfˈɔɹtʃənətli/",
+    "example": "Unfortunately, the shop is closed.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "exactly",
+    "ja": "まさに・正確に",
+    "ipa": "/ɪɡzˈæktli/",
+    "example": "That's exactly what I mean.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "clearly",
+    "ja": "明確に",
+    "ipa": "/klˈɪɹli/",
+    "example": "Please speak clearly.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "seriously",
+    "ja": "本気で・真剣に",
+    "ipa": "/sˈɪɹiəsli/",
+    "example": "Are you seriously thinking about it?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "honestly",
+    "ja": "正直に",
+    "ipa": "/ˈɑnəstli/",
+    "example": "Honestly, I don't know.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "rarely",
+    "ja": "めったに〜ない",
+    "ipa": "/ɹˈɛɹli/",
+    "example": "We rarely eat fast food.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "occasionally",
+    "ja": "時々",
+    "ipa": "/əkˈeɪʒənəli/",
+    "example": "I occasionally work from home.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "recently",
+    "ja": "最近",
+    "ipa": "/ɹˈisəntli/",
+    "example": "I recently started learning English.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "currently",
+    "ja": "現在",
+    "ipa": "/kˈɝəntli/",
+    "example": "I'm currently studying English.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "previously",
+    "ja": "以前は",
+    "ipa": "/pɹˈiviəsli/",
+    "example": "I previously worked in Tokyo.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "eventually",
+    "ja": "最終的には",
+    "ipa": "/ɪvˈɛntʃəwəli/",
+    "example": "Eventually, everything worked out.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "immediately",
+    "ja": "すぐに",
+    "ipa": "/ˌɪmˈidˌiətli/",
+    "example": "Please call me immediately.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "suddenly",
+    "ja": "突然",
+    "ipa": "/sˈʌdənli/",
+    "example": "Suddenly, it started raining.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "meanwhile",
+    "ja": "その間に",
+    "ipa": "/mˈinwˌaɪl/",
+    "example": "Meanwhile, I'll make some coffee.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "otherwise",
+    "ja": "そうしないと",
+    "ipa": "/ˈʌðɚwˌaɪz/",
+    "example": "Hurry up, otherwise we'll be late.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "instead",
+    "ja": "代わりに",
+    "ipa": "/ˌɪnstˈɛd/",
+    "example": "Let's walk instead.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "besides",
+    "ja": "そのうえ",
+    "ipa": "/bɪsˈaɪdz/",
+    "example": "Besides, it's too expensive.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "however",
+    "ja": "しかしながら",
+    "ipa": "/hˌaʊˈɛvɚ/",
+    "example": "However, I have another idea.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "therefore",
+    "ja": "したがって",
+    "ipa": "/ðˈɛɹfˌɔɹ/",
+    "example": "Therefore, we should wait.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "although",
+    "ja": "〜だけれども",
+    "ipa": "/ˌɔlðˈoʊ/",
+    "example": "Although I'm tired, I'll go.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "unless",
+    "ja": "〜しない限り",
+    "ipa": "/ənlˈɛs/",
+    "example": "We can't leave unless you're ready.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "whether",
+    "ja": "〜かどうか",
+    "ipa": "/wˈɛðɚ/",
+    "example": "I don't know whether he'll come.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "whenever",
+    "ja": "〜するときはいつでも",
+    "ipa": "/wɛnˈɛvɚ/",
+    "example": "Call me whenever you need help.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "wherever",
+    "ja": "どこでも",
+    "ipa": "/wɛɹˈɛvɚ/",
+    "example": "I'll follow you wherever you go.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "whoever",
+    "ja": "誰でも",
+    "ipa": "/huˈɛvɚ/",
+    "example": "Whoever arrives first can start.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "whatever",
+    "ja": "何でも",
+    "ipa": "/wˌʌtˈɛvɚ/",
+    "example": "Choose whatever you like.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "anyway",
+    "ja": "とにかく",
+    "ipa": "/ˈɛniwˌeɪ/",
+    "example": "Anyway, let's get started.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "somehow",
+    "ja": "どうにかして",
+    "ipa": "/sˈʌmhˌaʊ/",
+    "example": "We somehow found our way home.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "somewhere",
+    "ja": "どこかに",
+    "ipa": "/sˈʌmwˌɛɹ/",
+    "example": "Let's go somewhere quiet.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "anywhere",
+    "ja": "どこでも",
+    "ipa": "/ˈɛniwˌɛɹ/",
+    "example": "You can sit anywhere.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "nowhere",
+    "ja": "どこにも〜ない",
+    "ipa": "/nˈoʊwˌɛɹ/",
+    "example": "I have nowhere to go.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "everywhere",
+    "ja": "至る所に",
+    "ipa": "/ˈɛvɹiwˌɛɹ/",
+    "example": "I looked everywhere for my keys.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "forward",
+    "ja": "前方へ",
+    "ipa": "/fˈɔɹwɚd/",
+    "example": "Let's move forward together.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "backward",
+    "ja": "後方へ",
+    "ipa": "/bˈækwɚd/",
+    "example": "Take one step backward.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "nearby",
+    "ja": "近くに",
+    "ipa": "/nˈɪɹbˈaɪ/",
+    "example": "Is there a station nearby?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "abroad",
+    "ja": "海外へ",
+    "ipa": "/əbɹˈɔd/",
+    "example": "I want to work abroad someday.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "overseas",
+    "ja": "海外で・海外へ",
+    "ipa": "/ˈoʊvɚsˈiz/",
+    "example": "She lived overseas for a year.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "indoors",
+    "ja": "屋内で",
+    "ipa": "/ˈɪndˌɔɹz/",
+    "example": "Let's stay indoors today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "outdoors",
+    "ja": "屋外で",
+    "ipa": "/ˈaʊtdˈɔɹz/",
+    "example": "We love spending time outdoors.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "throughout",
+    "ja": "〜の至る所で",
+    "ipa": "/θɹuˈaʊt/",
+    "example": "It rained throughout the night.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "within",
+    "ja": "〜以内に",
+    "ipa": "/wɪðˈɪn/",
+    "example": "I'll be back within an hour.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "beyond",
+    "ja": "〜を超えて",
+    "ipa": "/bɪˈɑnd/",
+    "example": "The village is beyond the hill.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "against",
+    "ja": "〜に反対して・寄りかかって",
+    "ipa": "/əɡˈɛnst/",
+    "example": "Lean against the wall.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "toward",
+    "ja": "〜の方へ",
+    "ipa": "/təwˈɔɹd/",
+    "example": "Walk toward the station.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "among",
+    "ja": "〜の間で",
+    "ipa": "/əmˈʌŋ/",
+    "example": "She was among the first to arrive.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "except",
+    "ja": "〜を除いて",
+    "ipa": "/ɪksˈɛpt/",
+    "example": "Everyone came except Tom.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "despite",
+    "ja": "〜にもかかわらず",
+    "ipa": "/dɪspˈaɪt/",
+    "example": "Despite the rain, we went out.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "according",
+    "ja": "〜によると",
+    "ipa": "/əkˈɔɹdɪŋ/",
+    "example": "According to the news, it will rain.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "regarding",
+    "ja": "〜に関して",
+    "ipa": "/ɹɪɡˈɑɹdɪŋ/",
+    "example": "I have a question regarding the plan.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "including",
+    "ja": "〜を含めて",
+    "ipa": "/ˌɪnklˈudɪŋ/",
+    "example": "There are five of us, including me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "excluding",
+    "ja": "〜を除いて",
+    "ipa": "/ɪksklˈudɪŋ/",
+    "example": "The price is excluding tax.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "additional",
+    "ja": "追加の",
+    "ipa": "/ədˈɪʃənəl/",
+    "example": "We need additional information.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "extra",
+    "ja": "余分な・追加の",
+    "ipa": "/ˈɛkstɹə/",
+    "example": "Can I get an extra towel?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "ordinary",
+    "ja": "普通の",
+    "ipa": "/ˈɔɹdənˌɛɹi/",
+    "example": "It was an ordinary day.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "rare",
+    "ja": "珍しい",
+    "ipa": "/ɹˈɛɹ/",
+    "example": "It's rare to see snow here.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "unique",
+    "ja": "独特の",
+    "ipa": "/junˈik/",
+    "example": "Everyone has a unique story.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "equal",
+    "ja": "等しい",
+    "ipa": "/ˈikwəl/",
+    "example": "Everyone deserves equal chances.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "fair",
+    "ja": "公平な",
+    "ipa": "/fˈɛɹ/",
+    "example": "That sounds fair to me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "unfair",
+    "ja": "不公平な",
+    "ipa": "/ənfˈɛɹ/",
+    "example": "It's unfair to blame her.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "proper",
+    "ja": "適切な",
+    "ipa": "/pɹˈɑpɚ/",
+    "example": "Use the proper equipment.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "correct",
+    "ja": "正しい",
+    "ipa": "/kɚˈɛkt/",
+    "example": "Your answer is correct.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "incorrect",
+    "ja": "間違った",
+    "ipa": "/ˌɪnkɚˈɛkt/",
+    "example": "That information is incorrect.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "accurate",
+    "ja": "正確な",
+    "ipa": "/ˈækjɚət/",
+    "example": "We need accurate information.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "precise",
+    "ja": "精密な",
+    "ipa": "/pɹɪsˈaɪs/",
+    "example": "Please give me a precise time.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "exact",
+    "ja": "正確な",
+    "ipa": "/ɪɡzˈækt/",
+    "example": "I don't remember the exact date.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "approximate",
+    "ja": "おおよその",
+    "ipa": "/əpɹˈɑksəmət/",
+    "example": "What's the approximate cost?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "rough",
+    "ja": "粗い・大まかな",
+    "ipa": "/ɹˈʌf/",
+    "example": "Can you give me a rough estimate?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "smooth",
+    "ja": "滑らかな",
+    "ipa": "/smˈuð/",
+    "example": "The road is smooth here.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sharp",
+    "ja": "鋭い",
+    "ipa": "/ʃˈɑɹp/",
+    "example": "Be careful with that sharp knife.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "dull",
+    "ja": "鈍い・退屈な",
+    "ipa": "/dˈʌl/",
+    "example": "The blade is dull.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "soft",
+    "ja": "柔らかい",
+    "ipa": "/sˈɑft/",
+    "example": "This blanket feels soft.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "solid",
+    "ja": "固体の・しっかりした",
+    "ipa": "/sˈɑləd/",
+    "example": "We need a solid plan.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "liquid",
+    "ja": "液体",
+    "ipa": "/lˈɪkwəd/",
+    "example": "Water is a liquid.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "thick",
+    "ja": "厚い",
+    "ipa": "/θˈɪk/",
+    "example": "The book is quite thick.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "thin",
+    "ja": "薄い",
+    "ipa": "/θˈɪn/",
+    "example": "This paper is too thin.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "narrow",
+    "ja": "狭い",
+    "ipa": "/nˈɛɹoʊ/",
+    "example": "The street is narrow.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "wide",
+    "ja": "幅が広い",
+    "ipa": "/wˈaɪd/",
+    "example": "The river is very wide.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "deep",
+    "ja": "深い",
+    "ipa": "/dˈip/",
+    "example": "The water is deep here.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "shallow",
+    "ja": "浅い",
+    "ipa": "/ʃˈæloʊ/",
+    "example": "The pool is shallow at this end.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "flat",
+    "ja": "平らな",
+    "ipa": "/flˈæt/",
+    "example": "The road is flat.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "steep",
+    "ja": "急な",
+    "ipa": "/stˈip/",
+    "example": "This hill is too steep.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "loose",
+    "ja": "緩い",
+    "ipa": "/lˈus/",
+    "example": "These shoes are too loose.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tight",
+    "ja": "きつい",
+    "ipa": "/tˈaɪt/",
+    "example": "My jeans feel tight.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "empty",
+    "ja": "空の",
+    "ipa": "/ˈɛmpti/",
+    "example": "The bottle is empty.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "lightweight",
+    "ja": "軽量の",
+    "ipa": "/lˈaɪtwˈeɪt/",
+    "example": "This jacket is lightweight.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "stale",
+    "ja": "古くなった",
+    "ipa": "/stˈeɪl/",
+    "example": "The bread tastes stale.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "raw",
+    "ja": "生の",
+    "ipa": "/ɹˈɑ/",
+    "example": "I don't eat raw fish.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "ripe",
+    "ja": "熟した",
+    "ipa": "/ɹˈaɪp/",
+    "example": "This banana is ripe.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "mild",
+    "ja": "辛さが控えめな",
+    "ipa": "/mˈaɪld/",
+    "example": "I'd like something mild.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "crispy",
+    "ja": "カリカリした",
+    "ipa": "/kɹˈɪspi/",
+    "example": "The chicken is crispy.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "creamy",
+    "ja": "クリーミーな",
+    "ipa": "/kɹˈimi/",
+    "example": "This soup is creamy.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "juicy",
+    "ja": "水分の多い",
+    "ipa": "/dʒˈusi/",
+    "example": "The orange is juicy.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "delicious",
+    "ja": "おいしい",
+    "ipa": "/dɪlˈɪʃəs/",
+    "example": "This meal is delicious.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tasty",
+    "ja": "おいしい",
+    "ipa": "/tˈeɪsti/",
+    "example": "That looks tasty.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "texture",
+    "ja": "食感・質感",
+    "ipa": "/tˈɛkstʃɚ/",
+    "example": "I like the texture of this bread.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "portion",
+    "ja": "一人前・部分",
+    "ipa": "/pˈɔɹʃən/",
+    "example": "The portion is too big.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "serving",
+    "ja": "一食分",
+    "ipa": "/sˈɝvɪŋ/",
+    "example": "One serving is enough for me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "leftover",
+    "ja": "残り物",
+    "ipa": "/lˈɛftˌoʊvɚ/",
+    "example": "Let's eat the leftovers tomorrow.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "appetite",
+    "ja": "食欲",
+    "ipa": "/ˈæpətˌaɪt/",
+    "example": "I don't have much appetite today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "hungry",
+    "ja": "空腹の",
+    "ipa": "/hˈʌŋɡɹi/",
+    "example": "I'm hungry after my workout.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "thirsty",
+    "ja": "喉が渇いた",
+    "ipa": "/θˈɝsti/",
+    "example": "I'm thirsty after running.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "starving",
+    "ja": "とてもお腹が空いた",
+    "ipa": "/stˈɑɹvɪŋ/",
+    "example": "I'm starving. Let's eat.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "stuffed",
+    "ja": "満腹の",
+    "ipa": "/stˈʌft/",
+    "example": "I'm stuffed after dinner.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "digest",
+    "ja": "消化する",
+    "ipa": "/daɪdʒˈɛst/",
+    "example": "It takes time to digest food.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "chew",
+    "ja": "噛む",
+    "ipa": "/tʃˈu/",
+    "example": "Chew your food slowly.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "swallow",
+    "ja": "飲み込む",
+    "ipa": "/swˈɑloʊ/",
+    "example": "Be careful when you swallow.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sip",
+    "ja": "少しずつ飲む",
+    "ipa": "/sˈɪp/",
+    "example": "I like to sip hot tea.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "roast",
+    "ja": "焼く",
+    "ipa": "/ɹˈoʊst/",
+    "example": "We're going to roast vegetables.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "peel",
+    "ja": "皮をむく",
+    "ipa": "/pˈil/",
+    "example": "Peel the apple first.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "spread",
+    "ja": "広げる・塗る",
+    "ipa": "/spɹˈɛd/",
+    "example": "Spread butter on the toast.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "warn",
+    "ja": "警告する",
+    "ipa": "/wˈɔɹn/",
+    "example": "They warned us about the storm.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "remind",
+    "ja": "思い出させる",
+    "ipa": "/ɹimˈaɪnd/",
+    "example": "Please remind me tomorrow.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "contrast",
+    "ja": "対比する",
+    "ipa": "/kˈɑntɹæst/",
+    "example": "The two styles contrast sharply.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "debate",
+    "ja": "議論する",
+    "ipa": "/dəbˈeɪt/",
+    "example": "They debated the issue for hours.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "forgive",
+    "ja": "許す",
+    "ipa": "/fɚɡˈɪv/",
+    "example": "Please forgive my mistake.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "praise",
+    "ja": "褒める",
+    "ipa": "/pɹˈeɪz/",
+    "example": "The teacher praised her effort.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "criticize",
+    "ja": "批判する",
+    "ipa": "/kɹˈɪtɪsˌaɪz/",
+    "example": "It's easy to criticize others.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "encourage",
+    "ja": "励ます",
+    "ipa": "/ɛnkˈɝɪdʒ/",
+    "example": "My family encourages me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "doubt",
+    "ja": "疑う",
+    "ipa": "/dˈaʊt/",
+    "example": "I doubt that will happen.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "suspect",
+    "ja": "疑う",
+    "ipa": "/səspˈɛkt/",
+    "example": "I suspect he's right.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "assume",
+    "ja": "仮定する",
+    "ipa": "/əsˈum/",
+    "example": "Don't assume everyone agrees.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "predict",
+    "ja": "予測する",
+    "ipa": "/pɹɪdˈɪkt/",
+    "example": "It's hard to predict the weather.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "observe",
+    "ja": "観察する",
+    "ipa": "/əbzˈɝv/",
+    "example": "Let's observe what happens.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "discover",
+    "ja": "発見する",
+    "ipa": "/dɪskˈʌvɚ/",
+    "example": "We discovered a small cafe.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "explore",
+    "ja": "探検する",
+    "ipa": "/ɪksplˈɔɹ/",
+    "example": "I want to explore the city.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "investigate",
+    "ja": "調査する",
+    "ipa": "/ˌɪnvˈɛstəɡˌeɪt/",
+    "example": "The police will investigate.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "research",
+    "ja": "研究する",
+    "ipa": "/ɹisˈɝtʃ/",
+    "example": "I research travel destinations.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "analyze",
+    "ja": "分析する",
+    "ipa": "/ˈænəlˌaɪz/",
+    "example": "Let's analyze the results.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "count",
+    "ja": "数える",
+    "ipa": "/kˈaʊnt/",
+    "example": "Count the number of people.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "record",
+    "ja": "記録する",
+    "ipa": "/ɹəkˈɔɹd/",
+    "example": "I record my progress every day.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "track",
+    "ja": "追跡する・記録する",
+    "ipa": "/tɹˈæk/",
+    "example": "I track my workouts.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "monitor",
+    "ja": "監視する・確認する",
+    "ipa": "/mˈɑnətɚ/",
+    "example": "We monitor the temperature.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "review",
+    "ja": "復習する・見直す",
+    "ipa": "/ɹˌivjˈu/",
+    "example": "I review new words every day.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "revise",
+    "ja": "修正する",
+    "ipa": "/ɹɪvˈaɪz/",
+    "example": "We need to revise the plan.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "expand",
+    "ja": "拡大する",
+    "ipa": "/ɪkspˈænd/",
+    "example": "The company plans to expand.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "maintain",
+    "ja": "維持する",
+    "ipa": "/meɪntˈeɪn/",
+    "example": "It's important to maintain balance.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "preserve",
+    "ja": "保存する・守る",
+    "ipa": "/pɹəzˈɝv/",
+    "example": "We should preserve old buildings.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "forbid",
+    "ja": "禁じる",
+    "ipa": "/fɚbˈɪd/",
+    "example": "They forbid smoking here.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "approve",
+    "ja": "承認する",
+    "ipa": "/əpɹˈuv/",
+    "example": "The manager approved our plan.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "inspect",
+    "ja": "点検する",
+    "ipa": "/ˌɪnspˈɛkt/",
+    "example": "They inspect the trains regularly.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "repair",
+    "ja": "修理する",
+    "ipa": "/ɹɪpˈɛɹ/",
+    "example": "I need to repair my bike.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "replace",
+    "ja": "交換する",
+    "ipa": "/ɹˌiplˈeɪs/",
+    "example": "We should replace the battery.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "install",
+    "ja": "設置する",
+    "ipa": "/ˌɪnstˈɔl/",
+    "example": "Can you install the app?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "remove",
+    "ja": "取り除く",
+    "ipa": "/ɹimˈuv/",
+    "example": "Please remove your shoes.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "attach",
+    "ja": "取り付ける",
+    "ipa": "/ətˈætʃ/",
+    "example": "Attach the file to the email.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "detach",
+    "ja": "取り外す",
+    "ipa": "/dˈɪtˌætʃ/",
+    "example": "You can detach the cover.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "connect",
+    "ja": "接続する",
+    "ipa": "/kənˈɛkt/",
+    "example": "Connect your phone to Wi-Fi.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "disconnect",
+    "ja": "切断する",
+    "ipa": "/dɪskənˈɛkt/",
+    "example": "Please disconnect the cable.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "download",
+    "ja": "ダウンロードする",
+    "ipa": "/dˈaʊnlˌoʊd/",
+    "example": "You can download the file.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "upload",
+    "ja": "アップロードする",
+    "ipa": "/ˈʌplˌoʊd/",
+    "example": "Please upload the photo.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "update",
+    "ja": "更新する",
+    "ipa": "/əpdˈeɪt/",
+    "example": "I need to update the app.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "restart",
+    "ja": "再起動する",
+    "ipa": "/ɹistˈɑɹt/",
+    "example": "Try to restart your phone.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "refresh",
+    "ja": "更新する・リフレッシュする",
+    "ipa": "/ɹɪfɹˈɛʃ/",
+    "example": "Refresh the page and try again.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "backup",
+    "ja": "バックアップ",
+    "ipa": "/bˈækˌʌp/",
+    "example": "Always make a backup.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "password",
+    "ja": "パスワード",
+    "ipa": "/pˈæswˌɝd/",
+    "example": "Don't share your password.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "username",
+    "ja": "ユーザー名",
+    "ipa": "/jˈuzɚnˌeɪm/",
+    "example": "Enter your username here.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "notification",
+    "ja": "通知",
+    "ipa": "/nˌoʊtəfəkˈeɪʃən/",
+    "example": "I turned off notifications.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "setting",
+    "ja": "設定",
+    "ipa": "/sˈɛtɪŋ/",
+    "example": "Change the setting in the menu.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "feature",
+    "ja": "機能",
+    "ipa": "/fˈitʃɚ/",
+    "example": "This app has a useful feature.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "function",
+    "ja": "機能",
+    "ipa": "/fˈʌŋkʃən/",
+    "example": "What is the function of this button?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "option",
+    "ja": "選択肢",
+    "ipa": "/ˈɑpʃən/",
+    "example": "We have several options.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "selection",
+    "ja": "選択",
+    "ipa": "/səlˈɛkʃən/",
+    "example": "That's a great selection.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "issue",
+    "ja": "問題・論点",
+    "ipa": "/ˈɪʃu/",
+    "example": "There's an issue with the app.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "error",
+    "ja": "エラー・間違い",
+    "ipa": "/ˈɛɹɚ/",
+    "example": "I got an error message.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "bug",
+    "ja": "不具合",
+    "ipa": "/bˈʌɡ/",
+    "example": "We found a bug in the code.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "fail",
+    "ja": "失敗する",
+    "ipa": "/fˈeɪl/",
+    "example": "It's okay to fail sometimes.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "succeed",
+    "ja": "成功する",
+    "ipa": "/səksˈid/",
+    "example": "I believe you can succeed.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "achieve",
+    "ja": "達成する",
+    "ipa": "/ətʃˈiv/",
+    "example": "I want to achieve my goal.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "accomplish",
+    "ja": "成し遂げる",
+    "ipa": "/əkˈɑmplɪʃ/",
+    "example": "We accomplished a lot today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "complete",
+    "ja": "完了する",
+    "ipa": "/kəmplˈit/",
+    "example": "I completed my workout.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "pause",
+    "ja": "一時停止する",
+    "ipa": "/pˈɔz/",
+    "example": "Let's pause the video.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "resume",
+    "ja": "再開する",
+    "ipa": "/ɹɪzˈum/",
+    "example": "We can resume tomorrow.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "recover",
+    "ja": "回復する",
+    "ipa": "/ɹɪkˈʌvɚ/",
+    "example": "I need time to recover.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "heal",
+    "ja": "治る・癒やす",
+    "ipa": "/hˈil/",
+    "example": "The wound will heal soon.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "suffer",
+    "ja": "苦しむ",
+    "ipa": "/sˈʌfɚ/",
+    "example": "Nobody should suffer alone.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "struggle",
+    "ja": "苦労する",
+    "ipa": "/stɹˈʌɡəl/",
+    "example": "I struggle with pronunciation.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "growth",
+    "ja": "成長",
+    "ipa": "/ɡɹˈoʊθ/",
+    "example": "Growth takes time.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "discipline",
+    "ja": "規律・自制心",
+    "ipa": "/dˈɪsəplən/",
+    "example": "Discipline helps me stay focused.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "motivation",
+    "ja": "やる気",
+    "ipa": "/mˌoʊtəvˈeɪʃən/",
+    "example": "My motivation comes and goes.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "confidence",
+    "ja": "自信",
+    "ipa": "/kˈɑnfədəns/",
+    "example": "Practice builds confidence.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "courage",
+    "ja": "勇気",
+    "ipa": "/kˈɝədʒ/",
+    "example": "It takes courage to try.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "patience",
+    "ja": "忍耐",
+    "ipa": "/pˈeɪʃəns/",
+    "example": "Learning requires patience.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "concentration",
+    "ja": "集中力",
+    "ipa": "/kˌɑnsəntɹˈeɪʃən/",
+    "example": "I lost my concentration.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "distraction",
+    "ja": "気を散らすもの",
+    "ipa": "/dɪstɹˈækʃən/",
+    "example": "My phone is a distraction.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "stress",
+    "ja": "ストレス",
+    "ipa": "/stɹˈɛs/",
+    "example": "I try to manage stress.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "pressure",
+    "ja": "プレッシャー",
+    "ipa": "/pɹˈɛʃɚ/",
+    "example": "I work well under pressure.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "stamina",
+    "ja": "持久力",
+    "ipa": "/stˈæmənə/",
+    "example": "Running builds stamina.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "endurance",
+    "ja": "持久力",
+    "ipa": "/ˈɛndɚəns/",
+    "example": "Cycling improves endurance.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "flexibility",
+    "ja": "柔軟性",
+    "ipa": "/flˌɛksəbˈɪləti/",
+    "example": "Yoga improves flexibility.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "posture",
+    "ja": "姿勢",
+    "ipa": "/pˈɑstʃɚ/",
+    "example": "Try to improve your posture.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "muscle",
+    "ja": "筋肉",
+    "ipa": "/mˈʌsəl/",
+    "example": "My muscles are sore today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "joint",
+    "ja": "関節",
+    "ipa": "/dʒˈɔɪnt/",
+    "example": "My knee joint hurts.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "bone",
+    "ja": "骨",
+    "ipa": "/bˈoʊn/",
+    "example": "Exercise helps keep bones strong.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "injury",
+    "ja": "けが",
+    "ipa": "/ˈɪndʒɚi/",
+    "example": "He recovered from his injury.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "symptom",
+    "ja": "症状",
+    "ipa": "/sˈɪmptəm/",
+    "example": "What symptoms do you have?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "treatment",
+    "ja": "治療",
+    "ipa": "/tɹˈitmənt/",
+    "example": "The treatment worked well.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "medicine",
+    "ja": "薬",
+    "ipa": "/mˈɛdəsən/",
+    "example": "Take your medicine after meals.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "prescription",
+    "ja": "処方箋",
+    "ipa": "/pɹəskɹˈɪpʃən/",
+    "example": "I need a prescription.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "clinic",
+    "ja": "診療所",
+    "ipa": "/klˈɪnɪk/",
+    "example": "The clinic opens at nine.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "coverage",
+    "ja": "補償範囲",
+    "ipa": "/kˈʌvɚədʒ/",
+    "example": "Check your insurance coverage.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "benefit",
+    "ja": "利益・給付",
+    "ipa": "/bˈɛnəfɪt/",
+    "example": "This plan has many benefits.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "expense",
+    "ja": "費用",
+    "ipa": "/ɪkspˈɛns/",
+    "example": "Travel is a big expense.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "savings",
+    "ja": "貯金",
+    "ipa": "/sˈeɪvɪŋz/",
+    "example": "I put money into savings.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "investment",
+    "ja": "投資",
+    "ipa": "/ˌɪnvˈɛstmənt/",
+    "example": "Education is a good investment.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "asset",
+    "ja": "資産",
+    "ipa": "/ˈæsˌɛt/",
+    "example": "A house can be an asset.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "liability",
+    "ja": "負債・責任",
+    "ipa": "/lˌaɪəbˈɪlɪti/",
+    "example": "Debt is a financial liability.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "wealth",
+    "ja": "富",
+    "ipa": "/wˈɛlθ/",
+    "example": "Wealth isn't everything.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "value",
+    "ja": "価値",
+    "ipa": "/vˈælju/",
+    "example": "Family time has great value.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "worth",
+    "ja": "価値がある",
+    "ipa": "/wˈɝθ/",
+    "example": "The trip was worth the money.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "affordable",
+    "ja": "手頃な価格の",
+    "ipa": "/əfˈɔɹdəbəl/",
+    "example": "This hotel is affordable.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "invoice",
+    "ja": "請求書",
+    "ipa": "/ˈɪnvɔɪs/",
+    "example": "Please send me the invoice.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "purchase",
+    "ja": "購入する",
+    "ipa": "/pˈɝtʃəs/",
+    "example": "I want to purchase a ticket.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "delivery",
+    "ja": "配達",
+    "ipa": "/dɪlˈɪvɚi/",
+    "example": "The delivery arrived today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "shipment",
+    "ja": "発送品",
+    "ipa": "/ʃˈɪpmənt/",
+    "example": "Your shipment is on its way.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "package",
+    "ja": "小包",
+    "ipa": "/pˈækədʒ/",
+    "example": "A package arrived this morning.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "parcel",
+    "ja": "小包",
+    "ipa": "/pˈɑɹsəl/",
+    "example": "I received a parcel yesterday.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "departure",
+    "ja": "出発",
+    "ipa": "/dɪpˈɑɹtʃɚ/",
+    "example": "Our departure is at seven.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "arrival",
+    "ja": "到着",
+    "ipa": "/ɚˈaɪvəl/",
+    "example": "The arrival time has changed.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "terminal",
+    "ja": "ターミナル",
+    "ipa": "/tˈɝmənəl/",
+    "example": "The bus terminal is nearby.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "cancellation",
+    "ja": "キャンセル",
+    "ipa": "/kˌænsəlˈeɪʃən/",
+    "example": "We received a cancellation notice.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "availability",
+    "ja": "空き状況",
+    "ipa": "/əvˌeɪləbˈɪləti/",
+    "example": "Please check availability.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "accommodation",
+    "ja": "宿泊施設",
+    "ipa": "/əkˌɑmədˈeɪʃən/",
+    "example": "We need to book accommodation.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "itinerary",
+    "ja": "旅程",
+    "ipa": "/aɪtˈɪnɚˌɛɹi/",
+    "example": "Let's plan our itinerary.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sightseeing",
+    "ja": "観光",
+    "ipa": "/sˈaɪtsˈiɪŋ/",
+    "example": "We went sightseeing all day.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "landmark",
+    "ja": "名所",
+    "ipa": "/lˈændmˌɑɹk/",
+    "example": "This tower is a famous landmark.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "scenery",
+    "ja": "景色",
+    "ipa": "/sˈinɚi/",
+    "example": "The scenery is beautiful.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "landscape",
+    "ja": "風景",
+    "ipa": "/lˈændskˌeɪp/",
+    "example": "I love the mountain landscape.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "coast",
+    "ja": "海岸",
+    "ipa": "/kˈoʊst/",
+    "example": "We drove along the coast.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "shore",
+    "ja": "岸辺",
+    "ipa": "/ʃˈɔɹ/",
+    "example": "We walked along the shore.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "valley",
+    "ja": "谷",
+    "ipa": "/vˈæli/",
+    "example": "The village lies in a valley.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "cliff",
+    "ja": "崖",
+    "ipa": "/klˈɪf/",
+    "example": "Don't stand near the cliff.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "waterfall",
+    "ja": "滝",
+    "ipa": "/wˈɔtɚfˌɔl/",
+    "example": "We visited a beautiful waterfall.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "trail",
+    "ja": "小道・登山道",
+    "ipa": "/tɹˈeɪl/",
+    "example": "Let's follow this trail.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "path",
+    "ja": "道",
+    "ipa": "/pˈæθ/",
+    "example": "This path leads to the beach.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "adventure",
+    "ja": "冒険",
+    "ipa": "/ædvˈɛntʃɚ/",
+    "example": "Every trip is an adventure.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "memory",
+    "ja": "思い出・記憶",
+    "ipa": "/mˈɛmɚi/",
+    "example": "We made wonderful memories.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "moment",
+    "ja": "瞬間",
+    "ipa": "/mˈoʊmənt/",
+    "example": "Enjoy every moment.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "custom",
+    "ja": "習慣・風習",
+    "ipa": "/kˈʌstəm/",
+    "example": "It's a local custom.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "heritage",
+    "ja": "遺産",
+    "ipa": "/hˈɛɹətədʒ/",
+    "example": "We should protect our heritage.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "ancient",
+    "ja": "古代の",
+    "ipa": "/ˈeɪntʃənt/",
+    "example": "We visited an ancient temple.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "modern",
+    "ja": "現代の",
+    "ipa": "/mˈɑdɚn/",
+    "example": "The building has a modern design.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "traditional",
+    "ja": "伝統的な",
+    "ipa": "/tɹədˈɪʃənəl/",
+    "example": "We stayed in a traditional house.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "global",
+    "ja": "世界的な",
+    "ipa": "/ɡlˈoʊbəl/",
+    "example": "Climate change is a global issue.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "community",
+    "ja": "地域社会",
+    "ipa": "/kəmjˈunəti/",
+    "example": "We love our local community.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "neighborhood",
+    "ja": "近所",
+    "ipa": "/nˈeɪbɚhˌʊd/",
+    "example": "This is a quiet neighborhood.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "resident",
+    "ja": "住民",
+    "ipa": "/ɹˈɛzɪdənt/",
+    "example": "Local residents welcomed us.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "visitor",
+    "ja": "訪問者",
+    "ipa": "/vˈɪzɪtɚ/",
+    "example": "The museum has many visitors.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "tourist",
+    "ja": "観光客",
+    "ipa": "/tˈʊɹəst/",
+    "example": "Many tourists visit this town.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "guide",
+    "ja": "案内人・案内する",
+    "ipa": "/ɡˈaɪd/",
+    "example": "Our guide spoke English.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "translator",
+    "ja": "翻訳者",
+    "ipa": "/tɹænslˈeɪtɚ/",
+    "example": "She works as a translator.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "interpreter",
+    "ja": "通訳者",
+    "ipa": "/ˌɪntˈɝpɹətɚ/",
+    "example": "We hired an interpreter.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "communication",
+    "ja": "意思疎通",
+    "ipa": "/kəmjˌunəkˈeɪʃən/",
+    "example": "Good communication matters.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "expression",
+    "ja": "表現",
+    "ipa": "/ɪkspɹˈɛʃən/",
+    "example": "That's a useful expression.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "phrase",
+    "ja": "フレーズ",
+    "ipa": "/fɹˈeɪz/",
+    "example": "I learned a new phrase today.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "sentence",
+    "ja": "文",
+    "ipa": "/sˈɛntəns/",
+    "example": "Can you make a sentence?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "grammar",
+    "ja": "文法",
+    "ipa": "/ɡɹˈæmɚ/",
+    "example": "I'm studying English grammar.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "vocabulary",
+    "ja": "語彙",
+    "ipa": "/voʊkˈæbjəlˌɛɹi/",
+    "example": "I want to expand my vocabulary.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "pronunciation",
+    "ja": "発音",
+    "ipa": "/pɹoʊnˌʌnsiˈeɪʃən/",
+    "example": "I practice my pronunciation daily.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "accent",
+    "ja": "アクセント",
+    "ipa": "/əksˈɛnt/",
+    "example": "I like his British accent.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "fluency",
+    "ja": "流暢さ",
+    "ipa": "/flˈuənsi/",
+    "example": "Fluency comes with practice.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "meaning",
+    "ja": "意味",
+    "ipa": "/mˈinɪŋ/",
+    "example": "What's the meaning of this word?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "context",
+    "ja": "文脈",
+    "ipa": "/kˈɑntɛkst/",
+    "example": "Try to understand the context.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "translation",
+    "ja": "翻訳",
+    "ipa": "/tɹænzlˈeɪʃən/",
+    "example": "I checked the translation.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "subtitle",
+    "ja": "字幕",
+    "ipa": "/sˈʌbtˌaɪtəl/",
+    "example": "I watch videos with subtitles.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "caption",
+    "ja": "字幕・説明文",
+    "ipa": "/kˈæpʃən/",
+    "example": "Turn on the captions.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "script",
+    "ja": "台本",
+    "ipa": "/skɹˈɪpt/",
+    "example": "I read the video script.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "lecture",
+    "ja": "講義",
+    "ipa": "/lˈɛktʃɚ/",
+    "example": "I watched an interesting lecture.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "presentation",
+    "ja": "発表",
+    "ipa": "/pɹˌɛzəntˈeɪʃən/",
+    "example": "I gave a presentation at work.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "speech",
+    "ja": "スピーチ",
+    "ipa": "/spˈitʃ/",
+    "example": "His speech inspired me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "audience",
+    "ja": "観客・聴衆",
+    "ipa": "/ˈɑdiəns/",
+    "example": "The audience started clapping.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "speaker",
+    "ja": "話し手",
+    "ipa": "/spˈikɚ/",
+    "example": "She's a confident speaker.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "listener",
+    "ja": "聞き手",
+    "ipa": "/lˈɪsənɚ/",
+    "example": "Be a good listener.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "response",
+    "ja": "返答",
+    "ipa": "/ɹɪspˈɑns/",
+    "example": "Thank you for your quick response.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "feedback",
+    "ja": "フィードバック",
+    "ipa": "/fˈidbˌæk/",
+    "example": "I appreciate your feedback.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "advice",
+    "ja": "助言",
+    "ipa": "/ædvˈaɪs/",
+    "example": "Can you give me some advice?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "perspective",
+    "ja": "視点",
+    "ipa": "/pɚspˈɛktɪv/",
+    "example": "I want to hear your perspective.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "viewpoint",
+    "ja": "観点",
+    "ipa": "/vjˈupˌɔɪnt/",
+    "example": "I understand your viewpoint.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "purpose",
+    "ja": "目的",
+    "ipa": "/pˈɝpəs/",
+    "example": "What's the purpose of this meeting?",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "dream",
+    "ja": "夢",
+    "ipa": "/dɹˈim/",
+    "example": "I want to follow my dream.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "possibility",
+    "ja": "可能性",
+    "ipa": "/pˌɑsəbˈɪlətˌi/",
+    "example": "There is always a possibility.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "risk",
+    "ja": "危険・リスク",
+    "ipa": "/ɹˈɪsk/",
+    "example": "Every decision has some risk.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "outcome",
+    "ja": "結果",
+    "ipa": "/ˈaʊtkˌʌm/",
+    "example": "We hope for a positive outcome.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "lesson",
+    "ja": "教訓・授業",
+    "ipa": "/lˈɛsən/",
+    "example": "I learned an important lesson.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "ability",
+    "ja": "能力",
+    "ipa": "/əbˈɪlətˌi/",
+    "example": "I want to improve my ability.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "talent",
+    "ja": "才能",
+    "ipa": "/tˈælənt/",
+    "example": "She has a talent for music.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "potential",
+    "ja": "可能性・潜在能力",
+    "ipa": "/pətˈɛnʃəl/",
+    "example": "You have a lot of potential.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "performance",
+    "ja": "成果・パフォーマンス",
+    "ipa": "/pɚfˈɔɹməns/",
+    "example": "My performance is improving.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "achievement",
+    "ja": "達成",
+    "ipa": "/ətʃˈivmənt/",
+    "example": "I'm proud of this achievement.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "reward",
+    "ja": "報酬・ご褒美",
+    "ipa": "/ɹɪwˈɔɹd/",
+    "example": "Hard work has its rewards.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "satisfaction",
+    "ja": "満足",
+    "ipa": "/sˌætəsfˈækʃən/",
+    "example": "I feel a sense of satisfaction.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "happiness",
+    "ja": "幸せ",
+    "ipa": "/hˈæpinəs/",
+    "example": "Happiness comes in small moments.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "joy",
+    "ja": "喜び",
+    "ipa": "/dʒˈɔɪ/",
+    "example": "Spending time with family brings me joy.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "peace",
+    "ja": "平和・安らぎ",
+    "ipa": "/pˈis/",
+    "example": "I enjoy the peace and quiet.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "freedom",
+    "ja": "自由",
+    "ipa": "/fɹˈidəm/",
+    "example": "Freedom is important to me.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "independence",
+    "ja": "自立",
+    "ipa": "/ˌɪndɪpˈɛndəns/",
+    "example": "I value my independence.",
+    "exampleJa": "",
+    "status": "new"
+  },
+  {
+    "en": "commitment",
+    "ja": "約束・献身",
+    "ipa": "/kəmˈɪtmənt/",
+    "example": "Learning takes commitment.",
+    "exampleJa": "",
+    "status": "new"
   }
 ]
