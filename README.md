@@ -1,19 +1,14 @@
-# LOCK IN ENGLISH 500語版（読み込み修正版）
+# LOCK IN ENGLISH — 1000 WORDS
 
-500語の単語データ、学習アプリ、発音・例文音声、一覧、完全習得機能、TOPボタンを収録。
+既存700語をそのまま残し、重複しない300語を追加したバージョン。新規300語には日本語訳・米語寄りのIPA・英語例文を収録。
 
-## GitHub Pagesへの更新
-1. アプリの「設定」から学習記録をJSONでバックアップする。
-2. このZIPを解凍し、中身の7ファイルを**リポジトリのルート**にアップロードする。`data/words.json` は必ず `data` フォルダ内に置く。
-3. GitHubのCodeタブで `data/words.json` が存在することを確認する。
-4. Commit後、Pagesの公開が反映されるまで待ち、アプリを再読み込みする。
-5. 総単語数が500になったか確認する。
+## GitHubへの更新
 
-既存の学習記録は `lock-in-english-basic-v1` のブラウザ保存キーを継続使用。通常、同じURL・同じブラウザでは引き継がれます。
+1. アプリの「設定」から進捗をJSONでバックアップ。
+2. このZIPを解凍し、GitHubリポジトリのルートに同じ階層構造でアップロード。特に `data/words.json` は `data` フォルダ内に置く。
+3. `index.html` と `app.js` も更新する（1000語の件数検査とキャッシュ回避のため）。
+4. Commit changes後、GitHub Pagesが反映されてからアプリを再読み込み。総単語数が1000と表示されることを確認。
 
-**注意**: GitHubにアップロードしたファイルが正しくても、Pagesの公開ブランチやフォルダが違う場合は更新されません。Settings > Pages の公開元を確認してください。
+学習記録のlocalStorageキーは従来と同じ。iPhoneとPCの進捗は同期しません。
 
-
-700語版：data/words.jsonに700語収録。既存500語は保持。進捗localStorageキーも維持。GitHubのdata/words.jsonを上書きし、index.htmlとapp.jsも更新してください。
-
-700語版発音記号追加：501〜700語のIPA（米語寄り）を収録。
+発音記号はCMU Pronouncing Dictionaryの米語発音をIPAに変換した近似表記であり、厳密な音節境界・二次強勢などの校訂はしていません。
